@@ -2,10 +2,10 @@ import streamlit as st
 import google.generativeai as genai
 import os
 
-# 1. Configuraci贸n de la p谩gina web
-st.set_page_config(page_title="Chatbot Escolar", page_icon="馃")
-st.title("馃 Chatbot Oficial del Colegio")
-st.write("Preg煤ntame lo que necesites sobre el colegio, horarios o normatividad.")
+# 1. Configuracion de la pagina web
+st.set_page_config(page_title="Chatbot Escolar", page_icon="GO")
+st.title("Chatbot Gimnasio Obregon")
+st.write("Preguntame lo que necesites sobre el colegio, horarios o normatividad.")
 
 # 2. Conectar con la API de Google
 api_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
@@ -34,15 +34,15 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 # 5. Respuesta del bot
-if user_question := st.chat_input("驴A qu茅 hora inicia el descanso?"):
+if user_question := st.chat_input("Que informacion quieres saber?"):
     st.session_state.messages.append({"role": "user", "content": user_question})
     with st.chat_message("user"):
         st.markdown(user_question)
 
     instrucciones_bot = f"""
-    Eres un asistente virtual amable del colegio. Responde la pregunta bas谩ndote 脷NICAMENTE en la siguiente informaci贸n oficial. Si no est谩 la respuesta en el texto, di que no posees esa informaci贸n.
+    Eres un asistente virtual amable del colegio. Responde la pregunta basandote UNICAMENTE en la siguiente informacion oficial. Si no esta la respuesta en el texto, di que no posees esa informacion.
 
-    Informaci贸n del colegio:
+    Informacion del colegio:
     {contexto_colegio}
 
     Pregunta del estudiante: {user_question}
