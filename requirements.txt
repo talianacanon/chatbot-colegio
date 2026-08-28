@@ -1,2 +1,2 @@
 streamit
-google
+google-generaltiveai
