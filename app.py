@@ -51,7 +51,7 @@ if user_question := st.chat_input("驴A qu茅 hora inicia el descanso?"):
     with st.chat_message("assistant"):
         try:
             # Usamos el modelo est谩ndar y libre de errores de v1beta
-            model = genai.GenerativeModel("gemini-2.5-flash")
+            model = genai.GenerativeModel("gemini-3.6-flash")
             response = model.generate_content(instrucciones_bot)
             respuesta_final = response.text
             
