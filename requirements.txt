@@ -1,2 +1,2 @@
-streamit
+streamlit
 google-generaltiveai
