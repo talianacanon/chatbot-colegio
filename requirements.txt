@@ -1,4 +1,2 @@
-plaintext
-
 streamit
 google
