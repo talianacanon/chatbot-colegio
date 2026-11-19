@@ -56,7 +56,6 @@ st.markdown("""
 
 # Amplia lista de versículos (puedes sumar o quitar los que desees)
 versiculos = [
-    versiculos_colegio = [
     ("Proverbios 22:6", "Dirige a tus hijos por el camino correcto, y cuando sean mayores, no lo abandonarán."),
     ("Filipenses 4:13", "Pues todo lo puedo hacer por medio de Cristo, quien me da las fuerzas."),
     ("Salmos 37:5", "Entrega al Señor todo lo que haces; confía en él, y él te ayudará."),
