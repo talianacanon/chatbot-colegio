@@ -132,7 +132,7 @@ with st.sidebar:
 st.markdown("""
     <div class="header-sobrio">
         <h1>Chatbot Gimnasio Obregón</h1>
-        <p>Asistente virtual institucional. Consulta horarios, calendario, convivencia y normatividad.</p>
+        <p>Consulta horarios, calendario, convivencia y normatividad.</p>
     </div>
 """, unsafe_allow_html=True)
 
