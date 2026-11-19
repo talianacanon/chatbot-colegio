@@ -460,4 +460,1472 @@ cada día del calendario con su correspondiente número de día de horario (1 al
 Julio 1 de julio: R (Receso escolar)  2 de julio: R (Receso escolar)  3 de julio: Día 5  4 de julio: D (Domingo)  5 de julio: R (Receso escolar)  6 de julio: R (Receso escolar)  7 de julio: RP (Receso/Profesores)  8 de julio: Día 5  9 de julio: N (Nivelaciones)  10 de julio: D (Domingo)  11 de julio: Día 1  12 de julio: Día 2  13 de julio: Día 3  14 de julio: Día 4  15 de julio: Día 5  16 de julio: S (Sábado)  17 de julio: D (Domingo)  18 de julio: F (Festivo)  19 de julio: Día 6  20 de julio: F (Festivo)  21 de julio: Día 6  22 de julio: Día 1  23 de julio: Día 2  24 de julio: Día 35  25 de julio: D (Domingo)  26 de julio: Día 4  27 de julio: Día 5  28 de julio: Día 6  29 de julio: Día 1  30 de julio: Día 2  31 de julio: Día 3  Agosto1 de agosto: S (Sábado)  2 de agosto: D (Domingo)  3 de agosto: Día 3  4 de agosto: Día 4  5 de agosto: Día 5  6 de agosto: Día 6  7 de agosto: F (Festivo - Batalla de Boyacá)  8 de agosto: D (Domingo)  9 de agosto: Día 12  10 de agosto: Día 3  11 de agosto: Día 4  12 de agosto: Día 5  13 de agosto: D (Domingo)  14 de agosto: F (Festivo)  15 de agosto: Día 6  16 de agosto: Día 1  17 de agosto: Día 2  18 de agosto: Día 3  19 de agosto: D (Domingo)  20 de agosto: Día 5  21 de agosto: Día 4  22 de agosto: Día 5  23 de agosto: Día 6  24 de agosto: Día 1  25 de agosto: Día 2  26 de agosto: Día 6  27 de agosto: Día 1  28 de agosto: D (Domingo)  29 de agosto: Día 3  30 de agosto: Día 4  31 de agosto: Día 5  Septiembre1 de septiembre: Día 4  2 de septiembre: Día 5  3 de septiembre: Día 6  4 de septiembre: Día 1  5 de septiembre: S (Sábado)  6 de septiembre: D (Domingo)  7 de septiembre: Día 2  8 de septiembre: Día 4  9 de septiembre: Día 3  10 de septiembre: Día 5  11 de septiembre: Día 6  12 de septiembre: Día 5  13 de septiembre: D (Domingo)  14 de septiembre: Día 1  15 de septiembre: Día 2  16 de septiembre: Día 3  17 de septiembre: Día 4  18 de septiembre: Día 5  19 de septiembre: Día 5  20 de septiembre: D (Domingo)  21 de septiembre: C (Comisiones)  22 de septiembre: Día 6  23 de septiembre: Día 1  24 de septiembre: Día 3  25 de septiembre: Día 2  26 de septiembre: GO (Boletines)  27 de septiembre: D (Domingo)  28 de septiembre: Día 4  29 de septiembre: Día 5  30 de septiembre: Día 6  Octubre1 de octubre: Día 1  2 de octubre: Día 2  3 de octubre: S (Sábado)  4 de octubre: D (Domingo)  5 de octubre: R (Receso escolar)  6 de octubre: R (Receso escolar)  7 de octubre: R (Receso escolar)  8 de octubre: R (Receso escolar)  9 de octubre: R (Receso escolar)  10 de octubre: S (Sábado)  11 de octubre: D (Domingo)  12 de octubre: F (Festivo - Día de la Raza)  13 de octubre: Día 3  14 de octubre: Día 4  15 de octubre: Día 5  16 de octubre: Día 6  17 de octubre: S (Sábado)  18 de octubre: D (Domingo)  19 de octubre: Día 1  20 de octubre: Día 2  21 de octubre: Día 3  22 de octubre: Día 4  23 de octubre: Día 5  24 de octubre: Día 5  25 de octubre: D (Domingo)  26 de octubre: Día 6  27 de octubre: Día 1  28 de octubre: Día 2  29 de octubre: Día 3  30 de octubre: Día 4  31 de octubre: S (Sábado)  Noviembre1 de noviembre: D (Domingo)  2 de noviembre: F (Festivo)  3 de noviembre: Día 5  4 de noviembre: Día 6  5 de noviembre: Día 1  6 de noviembre: Día 2  7 de noviembre: Día 5  8 de noviembre: D (Domingo)  9 de noviembre: Día 3  10 de noviembre: Día 4  11 de noviembre: Día 5  12 de noviembre: Día 6  13 de noviembre: Día 1  14 de noviembre: Día 5  15 de noviembre: D (Domingo)  16 de noviembre: F (Festivo)  17 de noviembre: Día 2  18 de noviembre: Día 3  19 de noviembre: Día 4  20 de noviembre: Día 5 / CN (Comisiones/Nivelaciones)  21 de noviembre: S (Sábado)  22 de noviembre: D / 6N (Domingo / Día 6 Nivelaciones)  23 de noviembre: N / P (Nivelaciones / Profesores)  24 de noviembre: C (Comisiones / Precomisiones)  25 de noviembre: G (Grados)  26 de noviembre: GO (Boletines)  27 de noviembre: D (Domingo)  28 de noviembre: P (Trabajo Profesores)  29 de noviembre: D (Domingo)  30 de noviembre: Día 1  Diciembre5 de diciembre: S (Sábado)  6 de diciembre: D (Domingo)  8 de diciembre: F (Festivo - Inmaculada Concepción)  10 de diciembre: Día 5  11 de diciembre: D (Domingo)  17 de diciembre: Día 5  18 de diciembre: D (Domingo)  21 de diciembre: F (Festivo)  22 de diciembre: S (Sábado)  23 de diciembre: D (Domingo)  27 de diciembre: D (Domingo)
 Horario Diario Unificado (Lunes a Viernes)Franja / EventoHorarioDuración / DetallesApertura del colegio6:05 amIngreso libre anticipadoIngreso oficial6:30 am – 6:40 amControl de asistenciaBloque 17:00 am – 7:45 am45 minBloque 27:45 am – 8:30 am45 minBloque 38:30 am – 9:15 am45 minBloque 49:15 am – 10:00 am45 minPrimer Descanso10:00 am – 10:30 am30 minBloque 510:30 am – 11:15 am45 minBloque 611:15 am – 12:00 pm45 minSegundo Descanso12:00 pm – 12:30 pm30 minBloque 712:30 pm – 1:15 pm45 minBloque 81:15 pm – 2:00 pm45 min
 
-La hora de salida del colegio es a las 2:10pm
+MANUAL DE CONVIVENCIA
+FAMILIA OBREGÓN De acuerdo con las exigencias de la legislación educativa vigente y los propósitos educativos consignados en el Proyecto Educativo del Gimnasio Obregón, presentamos a la Comunidad Educativa, este Reglamento o Manual de Convivencia. Para su elaboración se siguió un amplio proceso de participación en el cual las distintas instancias y estamentos que hacen parte del gobierno escolar pudieron participar con revisiones y aportes que enriquecieron la versión definitiva. El Reglamento o Manual de Convivencia tiene sentido para una comunidad educativa si éste no sólo recoge sus aspiraciones e ideales formativos y los plasma en acuerdos y procedimientos claros y precisos para las distintas instancias, sino que también se vuelve vida, se lo lleva a la práctica y se hace evidente en la cultura de la Institución como una forma concreta y efectiva de vivir los principios y valores que la Institución pregona y quiere desarrollar y formar en sus estudiantes. Es nuestro deseo que esta nueva versión del Reglamento o Manual de Convivencia responda de manera real y efectiva a las aspiraciones y necesidades de todos los estamentos de la Comunidad Educativa y que, de igual manera, todos lo tengamos como norma referente con la cual solucionemos los conflictos de la vida cotidiana. En él se encuentran incorporadas las más recientes normatividades como son la normativa dispuesta en el Decreto 1075 del 26 de mayo de 2015 (Decreto único reglamentario del sector educativo), Ley 1801 de 2016 Código de Policía, el decreto 860 de 2010 y la Ley 1620 de 2013 y el Decreto Reglamentario 1965 de septiembre de 2013 MEN. 
+ 
+RESOLUCIÓN RECTORAL DE 28 DE NOVIEMBRE DE 2025 POR LA CUAL SE APRUEBAN LOS AJUSTES AL MANUAL DE CONVIVENCIA ESCOLAR DEL GIMNASIO OBREGÓN. El Rector del Gimnasio Obregón, en su calidad de presidente del Consejo Directivo y en uso de las facultades que le otorga la Ley 115 de 1994, el Decreto 1075 de 2015, artículo 2.3.3.1.5.4. Integración del Consejo Directivo, y demás normas concordantes, CONSIDERANDO QUE: La Constitución Política de Colombia, Artículo 67, consagra la educación como un derecho fundamental de la persona, con la función de formar a los ciudadanos en el respeto a los derechos humanos, a la paz y a la democracia, Los Artículos 73 y 87 de la Ley General de Educación, Ley 115 de 1994, establecen el uso del Manual de Convivencia para todos los centros educativos. En el literal c del Artículo144 de la misma Ley 115 señala como función del Consejo Directivo la adopción del Manual de Convivencia Escolar de conformidad con las normas vigentes, lo cual se encuentra reglamentado en el Artículo 2.3.3.1.5.6., del Decreto 1075 de 2015. El numeral 7 del Artículo 2.3.3.1.4.1 del Decreto 1075 de 2015 incluye el Manual de Convivencia Escolar en el Proyecto Educativo Institucional, El Artículo 2.3.3.1.4.4 del Decreto 1075 de 2015 reglamenta el contenido del Manual de convivencia, sin perjuicio de aquellos otros temas que tengan relación con los derechos y obligaciones de los diferentes estamentos de la comunidad educativa y los procesos que garanticen la sana convivencia escolar, En los últimos años han sido derogadas algunas normas y reemplazadas por otras regulaciones, lo que hace urgente el acoplamiento normativo de nuestro manual en materia jurídica y procedimental. La Ley 1620 de 15 de marzo de 2013 y el Decreto 1075, Título 5, que compila el Decreto reglamentario 1965 de 2013, prescriben la inclusión de normas, procesos y procedimientos dirigidos a la sana convivencia escolar y el respeto por los derechos humanos, sexuales y reproductivos de los estudiantes. La Sentencia T 478/2015 ordenó la revisión de los manuales de convivencia en el sentido de incorporar nuevas formas y alternativas para incentivar y fortalecer la convivencia escolar en pleno respeto de la orientación sexual y de género de los estudiantes. Que el Decreto 1421 de 2017 (hoy compilado en el Decreto 1075 de 2015) en el Artículo 2.3.3.5.2.3.1., literal c) Responsabilidades de los "establecimientos educativos públicos y privados, estableció en el numeral 10. Ajustar los manuales de convivencia escolar e incorporar estrategias en los componentes de promoción y prevención de la ruta de atención integral para la convivencia escolar, con miras a fomentar la convivencia y prevenir cualquier caso de exclusión o discriminación en razón a la discapacidad de los estudiantes. Las propuestas de reformas se han puesto a consideración, deliberación y consenso de los diferentes estamentos de la comunidad educativa. El Consejo Directivo según Acta del 28 de noviembre de 2025, aprobó las modificaciones, adopciones y ajustes pertinentes al Manual de Convivencia Escolar. Se atendió a los requerimientos establecidos en la Ley 
+
+RESUELVE: ARTÍCULO 1° Aprobar la reforma al actual Manual de Convivencia con las adopciones, modificaciones y ajustes en sus niveles: Preescolar, Primaria y Bachillerato. ARTÍCULO 2° Implementar el Manual de Convivencia Escolar aprobado, en sus niveles: Preescolar, Primaria y Bachillerato. ARTÍCULO 3° Divulgar el texto completo del Manual de Convivencia Escolar, a la comunidad educativa para su interiorización y cumplimiento. ARTÍCULO 4° Remitir la presente Resolución a la Secretaría de Educación junto con el Manual de Convivencia aprobado. Dada en la Rectoría del Gimnasio Obregón a los 28 días del mes de noviembre de 2025. La presente Resolución rige a partir de su publicación. PUBLÍQUESE Y CÚMPLASE Luis Orlando Gamboa Pereira Rect 
+ 
+MANUAL DE CONVIVENCIA (Reglamento interno) INTRODUCCIÓN Conceptos Básicos El Manual de Convivencia será interpretado en conformidad con el pensamiento educativo, el Proyecto Educativo Institucional, La Constitución Política de Colombia, Ley 1098 de Infancia y Adolescencia, la Ley 115 General de Educación y las disposiciones reglamentarias vigentes, así como por la jurisprudencia de los diferentes tribunales que administran justicia. En especial se inspira en la siguiente normativa nacional: - Constitución Política Colombiana Artículo 13 "Todas las personas nacen libres e iguales ante la ley…". - Concepción del Derecho-Deber. Artículos 16,20, 23, 29, 37, 44 de la Constitución Política de Colombia entre otros. - Jurisprudencias de la Corte Constitucional (T492 DE 1992, T519 del 992, T429 de 1992, entre otras). - Artículo 87 Ley 115 de 1994. Reglamento o Manual de Convivencia. Los establecimientos educativos tendrán un reglamento o manual de convivencia escolar, en el cual se definan los derechos y obligaciones de las y los estudiantes. Los padres, las madres o tutores y los niños, niñas y adolescentes al firmar la matricula correspondiente en representación de sus hijos estarán aceptando el mismo. - Artículo 91 Ley 115 /94: El y la estudiante son el centro del proceso educativo y deben participar activamente en su propia formación integral. -Artículo 92 Ley 115/94; Formación de las y los estudiantes. La educación debe favorecer el pleno desarrollo de la personalidad del educando, dar acceso a la cultura, al logro del conocimiento científico y técnico y a la formación de valores éticos, estéticos, morales, ciudadanos y religiosos, que faciliten la realización de una actividad útil para el desarrollo socioeconómico del país. -Ley 1098 De la infancia y la adolescencia; cuya finalidad es garantizar a los niños, niñas y adolescentes su pleno y armonioso desarrollo, para que crezcan en el seno de la familia y de la comunidad, en un ambiente de felicidad, amor y comprensión. -Ley 1878 De 2018 (enero 9): Por medio de la cual se modifican algunos artículos de la Ley 1098 de 2006, por la cual se expide el Código de la Infancia y la Adolescencia, y se dictan otras disposiciones. -Ley 1620 de 2013 y decreto Reglamentario 1965; para el fortalecimiento de la convivencia escolar, al hacer énfasis en la necesidad de entender la convivencia escolar como un asunto colectivo, cuya responsabilidad es compartida entre los actores de la comunidad educativa para el reconocimiento de los Derechos Humanos, Derechos sexuales y reproductivos y la prevención y mitigación de la violencia escolar. Decreto 1075 de 2015, Decreto único reglamentario del sector educativo. La elaboración y puesta en ejecución de un reglamento estudiantil, como uno de los aspectos esenciales del Proyecto Educativo Institucional, es una obligación legal consagrada en el artículo 73 de la Ley 115 de 1994 o Ley General de Educación. En concordancia, el artículo 87 de esta misma Ley, ordenó que en cada establecimiento educativo deba existir un REGLAMENTO O MANUAL DE CONVIVENCIA que defina “los derechos y obligaciones, de los y las estudiantes”. Por definición CONVIVIR significa vivir en compañía de otro u otros. La convivencia, por tanto, lleva intrínsecamente, nociones como respeto, solidaridad, responsabilidad individual, grupal y social, compromisos, valoración individual, ética, tolerancia. Es por eso que, en su conjunto, este MANUAL DE CONVIVENCIA recoge una serie de orientaciones que buscan desarrollar una pedagogía de la convivencia, en donde las reglas y criterios son, ante todo, parámetros para el crecimiento individual en el marco de una colectividad sana y saludable. Si bien el Manual tiene como eje los derechos y deberes de los educandos, tanto en los criterios para su reconocimiento, promoción y protección como en las normas pedagógicas, disciplinares y sancionatorias, cuando se vulneran, recoge igualmente los derechos y obligaciones de los demás miembros de la comunidad educativa, según el rol que desempeñe en relación con el proceso educativo que impacta a los educandos. 
+
+RAZÓN DEL MANUAL DE CONVIVENCIA: Las normas de convivencia van encaminadas a que la comunidad educativa ejerza libremente autocontrol y autodisciplina, que los forme como personas responsables de sus actos. “Actuar con disciplina significa proceder bien, en forma oportuna, con madurez y atendiendo las exigencias que la institución propone para contribuir a la formación integral de la comunidad.” Otra razón del Manual de Convivencia es el de proveer los elementos necesarios para que toda persona adscrita a la comunidad educativa aprenda e interiorice que “la sana convivencia implica el cumplimiento de normas y reglas a todo nivel”. Esto exige el saber reconocer la autoridad, el saber seguir pautas, así como reconocer sus propios derechos y deberes. ALCANCE DEL MANUAL DE CONVIVENCIA. El presente Manual de Convivencia es aplicable a todos los miembros de la comunidad educativa del Gimnasio Obregón (directivos, docentes, personal administrativo, estudiantes, padres de familia, personal de servicios generales). La comunidad debe ser consciente de la necesidad de tales normas y aceptarlas como guías individuales y comunitarias, enriqueciéndolas con el estudio y ejerciéndolas en la práctica cotidiana. Dado que las normativas y dinámicas institucionales son cambiantes, el Manual puede ser objeto de revisiones y actualizaciones de ser necesario durante el año escolar, de presentarse esta situación se informará a la comunidad educativa de manera oportuna. PRINCIPIOS ORIENTADORES Los procesos de convivencia social, de formación académica y de disciplina que se desarrollan en el colegio, se harán atendiendo los principios de responsabilidad, autonomía, pertenencia, creatividad y, participación. MARCO JURÍDICO GENERAL El Manual de Convivencia como instrumento que define los derechos y deberes de los y las estudiantes y de los integrantes de la comunidad educativa, en relación con éstos, tiene como marco jurídico general, la Constitución y la ley colombiana. De modo particular, la siguiente normatividad: - Constitución Política de Colombia. - LEY 115 de 1994 Ley General de Educación - DECRETO 1860 de 1994, reglamentario de la Ley 115 en los aspectos pedagógicos y organizativos. -LEY 599 DE 2000, Código de Procedimiento Penal. y en especial el Título IV del libro II, o cuando las faltas constituyan cualquier otro delito establecido en la ley penal colombiana vigente. - LEY 1453 DE 2011, por medio de la cual se reforma el Código Penal, el Código de Procedimiento Penal, el Código de Infancia y Adolescencia, las reglas sobre extinción de dominio y se dictan otras disposiciones en materia de seguridad. - LEY 1581 de 2012, en el Decreto 1377 de 2013 Régimen General de Protección de Datos Personales - Estándares Básicos de competencias ciudadanas 2003. (MEN) -DECRETO 1286 de 2005, normas sobre la participación de los padres de familia en los procesos educativos de las instituciones oficiales y privadas. - LEY 1098 de 2006 Código de Infancia y Adolescencia. y en especial los artículos 1,2,3,4,7,8,9,10,11,12,14, 19,39,40,41,42,43,44 -LEY 1146 DE 2007, por medio de la cual se expiden normas para la prevención de la violencia sexual y atención integral de los niños, niñas y adolescentes abusados sexualmente; Artículos 12, 13, 14 y 15. -DECRETO 1290 de 2009, por el cual se reglamenta la evaluación del aprendizaje y promoción de los estudiantes de los niveles de educación básica y media. 
+
+DECRETO 1421 de 2017 Por el cual se reglamenta en el marco de la educación inclusiva la atención educativa a la población con discapacidad. -LEY 2025 DE 2020, Por medio de la cual se establecen lineamientos para la implementación de las escuelas para padres y madres de familia y cuidadores, en las instituciones de educación preescolar, básica y media del país, se deroga la ley 1404 de 2010 y se dictan otras disposiciones. -LEY 1620 de 2013, que crea el Sistema Nacional de Convivencia Escolar y Formación para el Ejercicio de los Derechos Humanos, la Educación para la Sexualidad y la Prevención y Mitigación de la Violencia Escolar". Ley contenida en el Decreto 1075 de 2015 en el Titulo 5, capítulos 1,2,3 y 4 - DECRETO 1965 del 11 de septiembre de 2013 que reglamenta la ley 1620. - LEY 1622 de 2013 estatuto de ciudadanía juvenil. -LEY 1801 de 2016 Código Nacional de Policía y Convivencia y en especial los artículos 1,26,27,31,33 literales b, c, d,34 y parágrafo 1.,38,39 y parágrafos 1,2 y 3 -LEY 2000 del 14 de noviembre del año 2019, "por medio de la cual se modifica el código nacional de policía y convivencia y el código de la infancia y la adolescencia en materia de consumo, porte y distribución de sustancias psicoactivas en lugares con presencia de menores de edad y se dictan otras disposiciones" -DECRETO 1108 de 1994 Por el cual se sistematizan algunas disposiciones en relación con el porte y consumo de estupefacientes y sustancias psicotrópicas y en especial los artículos 1,2,3,4 y parágrafo ,5,6,9,10,11,12 y 13 -LEY 1732 de 2015 para la implementación de la Cátedra de La Paz en todas las instituciones educativas del país de preescolar, básica y media, tanto de carácter oficial como privado. Y Decreto reglamentario 1038 de 2015 Desarrollándose en el Gimnasio Obregón a través de la Cátedra de Formación Ciudadana. GIMNASIO OBREGÓN 2026 Manual de Convivencia Escolar Página 15 -Sentencia T-240 de 2018 la cual establece la condición de desvinculación del plantel educativo a estudiantes que hacen uso de redes sociales de forma inadecuada. -DECRETO 3518 de 2006 por el cual se crea y reglamenta el sistema de vigilancia de salud pública y se dictan otras disposiciones. Art. 20 NOTIFICACIÓN OBLIGATORIA -Sentencia T-196 de 2011 la cual establece el debido proceso para la atención de situaciones irregulares. (Sentencia SP289-2023). Por peleas pactadas por los estudiantes dentro o fuera de las instituciones educativas. -Directorio de protocolos de atención integral para la convivencia escolar y el ejercicio de los derechos humanos, derechos sexuales y derechos reproductivos versión vigente. -Protocolos para el abordaje pedagógico de situaciones de riesgo en el marco de la ruta de atención integral para la convivencia escolar por Racismo y Discriminación Étnico-Racial y Xenofobia. LEY 1257 de 2008 Por la cual se dictan normas de sensibilización, prevención y sanción de formas de violencia y discriminación contra las mujeres, se reforman los Códigos Penal, de Procedimiento Penal, la Ley 294 de 1996 y se dictan otras disposiciones. Nota: El Gimnasio Obregón adoptará las medidas y normativas nacionales que surjan como consecuencia de un evento que pueda alterar el normal desarrollo en la prestación del servicio educativo por razones de orden público y/o salud pública durante el año 2026 
+
+CONCEPTOS JURISPRUDENCIALES ORIENTADORES. Con la aparición de la figura de la tutela, como instrumento de protección de los derechos fundamentales, a partir de la promulgación de la Constitución Política de Colombia en 1991, la Corte Constitucional, dentro de la función de revisión de los fallos proferidos por instancias judiciales competentes, ha emitido múltiples pronunciamientos en torno a la aplicación de los derechos fundamentales en la prestación del servicio educativo, por parte de las instituciones oficiales y privadas. Dada la trascendencia de estos pronunciamientos, ha considerado fundamental incorporar como parte del Manual de Convivencia, apartes de algunas sentencias producidas, como criterios de observancia, que orienten la debida comprensión y aplicación de los conceptos, procedimientos e instrumentos indicados en el Manual, por parte de los integrantes de la comunidad educativa. Contrato de Matrícula. (Sentencia 612 de 1992) “Al momento de matricularse una persona en un centro educativo celebra por ese acto un contrato de naturaleza civil; un contrato es un acuerdo de voluntades para crear obligaciones.” Función social. (Sentencia T -527 de 1995) Que “la función social que cumple la educación hace que dicha garantía se entienda como un derecho – deber que genera para el educador como para los educandos y para sus progenitores un conjunto de obligaciones recíprocas que no pueden sustraerse. Ello implica que los planteles puedan y deban establecer una serie de normas o reglamentos en donde se viertan las pautas de comportamiento que deben seguir las partes del proceso educativo.” Derecho – deber de la educación. (Sentencia 002 de 1992) “Ahora bien, una característica de algunos de los derechos constitucionales fundamentales es la existencia de deberes correlativos. En el artículo 95 de la Constitución Política se encuentran los deberes y obligaciones de toda persona. La persona humana además de derechos tiene deberes; ello es como las dos caras de una moneda, pues es impensable la existencia de un derecho sin deber frente a sí mismo y frente a los demás.” (Sentencia T-341 de 1993) “Considera la Corte que quien se matricula en un centro educativo con el objeto de ejercer el derecho constitucional fundamental que lo ampara, contrae por ese mismo hecho obligaciones que debe cumplir, de tal manera que no puede invocar el mentado derecho para excusar las infracciones en que incurra. Por ello, si reclama protección mediante la acción de tutela, alegando que el plantel desconoce las garantías constitucionales al aplicarle una sanción, es imperioso que el juez verifique tanto los actos ejecutados por las autoridades del centro educativo como la conducta observada por el estudiante, a objeto de adoptar una decisión verdaderamente justa en cuya virtud no se permita el quebrantamiento de los derechos constitucionales del educando pero tampoco se favorezca la irresponsabilidad de éste.” (Sentencia T-386 de 1994) “Para la Corte es claro entonces, que la ley asignó a los establecimientos educativos, públicos y privados, un poder de reglamentación dentro del marco de su actividad. Los reglamentos generales de convivencia, como es de la esencia de los actos reglamentarios, obligan a la entidad que los ha expedido y a sus destinatarios, esto es, a quienes se les aplican, porque su fuerza jurídica vinculante deviene en forma inmediata de la propia ley y mediata de la Constitución Política.” (Sentencia T-524 de 1992) “En otros términos, los reglamentos de las instituciones educativas no podrán contener elementos, normas o principios que estén en contravía de la Constitución vigente como tampoco favorecer o permitir prácticas entre educadores y educandos que se aparten de la consideración y el respeto debidos a la privilegiada condición de seres humanos tales como tratamientos que afecten el libre desarrollo de la personalidad de los educandos, su dignidad de personas nacidas en un país que hace hoy de la diversidad y el pluralismo étnico, cultural y social principio de praxis general. Por tanto, en la relación educativa que se establece entre los diversos sujetos, no podrá favorecerse la presencia de prácticas discriminatorias, los tratos humillantes, las sanciones que no consulten un propósito objetivamente educativo sino el mero capricho y la arbitrariedad. 
+
+(Sentencia T-015 de 1994) “Si bien es cierto que el Reglamento del plantel educativo es base fundamental orientadora de la disciplina del Colegio, pues sin él no sería posible mantener un nivel de organización, es cierto también que las normas allí contenidas deben ajustarse o mejor interpretarse acorde con las circunstancias particulares de los menores. No se trata de permitir una total libertad, pues esto no contribuye a la formación, pero sí comprender la situación y en la forma más razonable obrar sin perjudicar el futuro del educando.” (Sentencia T-1233 de 2003) “Por consiguiente, los reglamentos internos o manuales de convivencia elaborados por las comunidades de los planteles educativos tienen la obligación de observar las disposiciones constitucionales. En efecto, el respeto al núcleo esencial de los derechos fundamentales de los estudiantes no se disminuye como consecuencia de la facultad otorgada a los centros educativos para regular el comportamiento de sus estudiantes. Por el contrario, las reglas que se establezcan deben reflejar el respeto a la dignidad humana y a la diversidad étnica, cultural y social de la población (artículo 1º), así como los derechos al libre desarrollo de la personalidad (artículo 16), libertad de conciencia (artículo 18), libertad de expresión (artículo 20), igualdad (artículo 13), debido proceso (artículo 29) y educación (artículo 67) superiores. Además de su consagración constitucional, la titularidad de estos derechos se encuentra en cabeza de niños y adolescentes en proceso de formación, lo que implica una protección reforzada. Ello, por supuesto, no significa que en el contexto de la comunidad educativa quienes tienen a su cargo la elaboración de los reglamentos de dichas instituciones, no puedan establecer límites razonables y proporcionales al ejercicio de los derechos. En la medida que los derechos fundamentales no son absolutos, y en ciertos aspectos se enfrentan a valores, principios y otros derechos fundamentales protegidos también por la Carta, la Corte ha sostenido que su alcance y efectividad pueden ser objeto de ponderación y armonización frente a otras disposiciones constitucionales a través de los reglamentos de convivencia.” Disciplina escolar. (Sentencia T-366 de 1992) “La aplicación de la disciplina en el establecimiento educativo no implica de suyo la violación de derechos fundamentales. Pero los profesores y directivas están obligados a respetar la dignidad del estudiante La Corte Constitucional insiste en que toda comunidad requiere de un mínimo de orden y del imperio de la autoridad para que pueda subsistir en ella una civilizada convivencia, evitando el caos que podría generarse si cada individuo, sin atender reglas ni preceptos, hiciera su absoluta voluntad, aun en contravía de los intereses comunes, en un mal entendido concepto del derecho al libre desarrollo de la personalidad.”. (Sentencia 037 de 1995) "La disciplina, que es indispensable en toda organización social para asegurar el logro de sus fines dentro de un orden mínimo, resulta inherente a la educación, en cuanto hace parte insustituible de la formación del individuo. Pretender que, por una errónea concepción del derecho al libre desarrollo de la personalidad, las instituciones educativas renuncien a exigir de sus estudiantes comportamientos acordes con un régimen disciplinario al que están obligados desde su ingreso, equivale a contrariar los objetivos propios de la función formativa que cumple la educación". (Sentencia T- 316 de 1994) “La educación solo es posible cuando se da la convivencia y si la indisciplina afecta gravemente a esta última, ha de prevalecer el interés general y se puede, respetando el debido proceso y los otros derechos fundamentales, a más de la participación de la comunidad educativa, llegar hasta a separar a la persona del establecimiento. Además, la permanencia de la persona en el sistema educativo, está condicionada por su concurso activo en la labor formativa; la falta de rendimiento intelectual también puede llegar a tener suficiente entidad como para que la persona sea retirada del establecimiento donde debía aprender y no lo logra por su propia causa.” Concurrencia de padres de familia. (Sentencia T-366 de 1997) “El proceso educativo exige no solamente el cabal y constante ejercicio de la función docente y formativa por parte del establecimiento, sino la colaboración del propio estudiante y el concurso de sus padres o acudientes. Estos tienen la obligación, prevista en el artículo 67 de la Constitución, de concurrir a la formación moral, intelectual y física del menor y del adolescente, pues "el Estado, la sociedad y la familia son responsables de la educación". No contribuye el padre de familia a la formación de la personalidad ni a la estructuración del carácter de su hijo cuando, so pretexto de una mal entendida protección paterna -que en realidad significa cohonestar sus faltas-, obstruye la labor que adelantan los educadores cuando lo corrigen, menos todavía si ello se refleja en una actitud agresiva e irrespetuosa.” Formación integral del educando. (Sentencia T-386 de 1994)“El comportamiento del estudiante en su claustro de estudios, en su hogar y en la sociedad, es algo que obviamente resulta trascendente y vital para los intereses educativos del establecimiento de enseñanza, porque es necesario mantener una interacción enriquecedora y necesaria entre el medio educativo y el ámbito del mundo exterior, lo cual se infiere de la voluntad Constitucional cuando se establece a modo de principio que "el estado, la sociedad y la familia son responsables de la educación". Nadie puede negar que las actividades que el estudiante cumple dentro y fuera de su centro de estudios, influyen definitivamente en el desarrollo de su personalidad, en cuanto contribuyen a su formación educativa, a saciar sus necesidades físicas, psíquicas e 
+
+intelectuales, y a lograr su desarrollo moral, espiritual, social afectivo, ético y cívico, como es la filosofía que inspira la ley general de educación (Ley 115/94, art. 5o.). No obstante, lo anterior, a juicio de la Corte los reglamentos de las instituciones educativas no pueden entrar a regular aspectos que de alguna manera puedan afectar los derechos constitucionales fundamentales de los educandos, pues si ello está vedado a la ley con mayor razón a los reglamentos de la naturaleza indicada. En tal virtud, dichos reglamentos no pueden regular aspectos o conductas del estudiante ajenas al centro educativo que puedan afectar su libertad, su autonomía o su intimidad o cualquier otro derecho, salvo en el evento de que la conducta externa del estudiante tenga alguna proyección o injerencia grave, que directa o indirectamente afecte la institución educativa. (Sentencia T-569 de 1994). “La educación como derecho fundamental conlleva deberes del estudiante, uno de los cuales es someterse y cumplir el reglamento o las normas de comportamiento establecidas por el plantel educativo a que se vinculó. Su inobservancia permite a las autoridades escolares tomar decisiones que correspondan, siempre que se observe y respete el debido proceso del estudiante, para corregir situaciones que estén por fuera de la Constitución, de la ley y del ordenamiento interno del ente educativo…El deber de los estudiantes radica, desde el punto de vista disciplinario, en respetar el reglamento y las buenas costumbres, y en el caso particular se destaca la obligación de mantener las normas de presentación establecidas por el Colegio, así como los horarios de entrada, de clases, de descanso y de salida, y el debido comportamiento y respeto por sus profesores y compañeros. El hecho de que el menor haya tenido un aceptable rendimiento académico no lo exime del cumplimiento de sus deberes de estudiante.” (Sentencia T-519 de 1992). “Si bien la educación es un derecho fundamental y el estudiante debe tener la posibilidad de permanecer vinculado al plantel hasta la culminación de los estudios, de allí no debe colegirse que el centro docente está obligado a mantener indefinidamente entre sus discípulos a quien de manera constante y reiterada desconoce las directrices disciplinarias y quebranta el orden dispuesto por el reglamento educativo, ya que semejantes conductas, además de constituir incumplimiento de los deberes ya resaltados como inherentes a la relación que el estudiante establece con la Institución en que se forma, representa un abuso de derecho en cuanto causa perjuicio a la comunidad educativa e impide al plantel los fines que le son propios”. POLITICA PÚBLICA PARA LA GARANTIA PLENA DE LOS DERECHOS SOBRE IDENTIDADES DE GÉNERO Y ORIENTACIÓN SEXUAL. (Sentencia T- 594 de 1993) “La esencia del libre desarrollo de la personalidad como derecho, es el reconocimiento que el Estado hace de la facultad natural de toda persona a ser individualmente como quiere ser, sin coacción, ni controles injustificados o impedimentos por parte de los demás. El fin de ello es la realización de las metas de cada individuo de la especie humana, fijadas autónomamente por él, de acuerdo con su temperamento y carácter propio, con la limitación de los derechos de las demás personas y del orden público.” (Sentencia T-101 de 1998) “Tolerancia, respeto a la diversidad e igualdad en la diferencia”. La Orientación sexual es una condición de la persona humana que implica la elección de una opción tan respetable y válida como cualquiera, en la cual el sujeto que la adopta es titular como cualquier persona, de intereses que se encuentran jurídicamente protegidos y que no pueden ser objeto de restricción por el hecho de que las personas no compartan su especifico estilo de vida.” (Sentencia T-435 de 2002) “La elección de la orientación sexual es una clara manifestación y materialización del ejercicio del derecho al libre desarrollo de la personalidad. De modo que el establecimiento educativo no puede coartar tal elección, so pretexto de pretender inculcar valores homogéneos a todos los estudiantes, no respetando sus diversas tendencias.” (Sentencia T-478 de 2.015) “El respeto a la diversidad sexual e identidad de género en ambientes escolares y la protección del derecho a la igualdad y al libre desarrollo de la personalidad. En este sentido, el colegio construye en su interior un espacio permanente de encuentro para resolver de manera amigable y constructiva los conflictos que se derivan de las interacciones que se producen en la comunidad educativa; todo esto con el fin de que todos los miembros de la comunidad educativa interioricen principios fundamentales para la convivencia armónica, tales como la tolerancia, el respeto a la diversidad, el pluralismo y la igualdad en la diferencia.” DEBIDO PROCESO. (Sentencia T-1233 de 2003) “En diversas oportunidades, esta Corporación ha señalado que la garantía constitucional al debido proceso (artículo 29 Superior) tiene aplicación en los procesos disciplinarios adelantados por los centros educativos de naturaleza pública y privada. En virtud de ello, la imposición de una sanción disciplinaria debe estar precedida del agotamiento de un procedimiento justo y adecuado, en el cual el implicado haya podido participar, presentar su defensa y controvertir las pruebas presentadas en su contra. 
+
+(Sentencia T-196 de 2011) Esta Corporación ha señalado que la garantía constitucional al debido proceso (artículo 29 Superior) tiene aplicación en los procesos disciplinarios adelantados por los centros educativos de naturaleza pública y privada. Sentencia SU.1149/00 “La necesidad de crear un sistema de educación especial para un grupo específico de la población emerge del propio texto constitucional. Es decir, que la educación especial no sólo constituye un derecho fundamental para quienes son acreedores a ella, sino que cumple una función social que resulta positiva para generar una mejor sociedad, edificada sobre la base del conocimiento”. TITULO I. - FILOSOFIA INSTITUCIONAL CAPITULO I- LA INSTITUCIÓN Artículo 1. IDENTIFICACIÓN: El Gimnasio Obregón fue fundado el 01 de noviembre de 1.996. Es una Institución de naturaleza privada, género mixto, modalidad académica, con énfasis en la enseñanza del inglés como lengua extranjera, que labora en jornada única, calendario A y con Licencia de Funcionamiento del Ministerio de Educación Nacional, aprobada según Resoluciones N° 294 de febrero 8 de 1.999 para preescolar y básica primaria., Resolución N° 19-129 de diciembre 6 de 2010 para básica secundaria y Resolución 246 de diciembre 1 de 2011, para la media. Artículo 2. UBICACIÓN. El Gimnasio Obregón se encuentra localizado en Bogotá D.C., Localidad 19 Ciudad Bolívar, Calle 62 A Sur No. 67-08/20 - Calle 62 Bis Sur No. 67-07/13/19/25 Barrio Madelena. PBX: 2385969, Teléfonos: 8058390 - 2307326. E-mail: gimnasiobregon@yahoo.es ó gimnasiobregon@gmail.com Página web: www.gimnasiobilingueobregon.edu.co CAPÍTULO II. - DIRECCIONAMIENTO ESTRATÉGICO Artículo 3. MISIÓN: El GIMNASIO OBREGÓN construye y aplica un proyecto educativo basado en la exigencia académica y formación en valores a través del cual los estudiantes desarrollan habilidades y competencias básicas necesarias para asumir la realidad con sentido crítico y responsable. Así mismo, desde temprana edad se brindan las herramientas necesarias en el manejo del inglés como segunda lengua para el desarrollo de habilidades que les permitan mejorar su calidad de vida y enfrentar de manera competente los desafíos que el mundo les propone. Dichos procesos son animados y orientados por un equipo de talento humano idóneo, competente y comprometido con las metas de calidad propuestas por la institución y el deseo de mejoramiento continuo de la calidad del servicio educativo en pro del desarrollo integral de los niños, niñas y jóvenes mediante el aporte de conocimientos, el fortalecimiento de sus habilidades en virtud de su crecimiento personal para lograr la aplicación de sus saberes con autonomía y responsabilidad. Artículo 4. VISIÓN: El GIMNASIO OBREGÓN, se proyecta como una institución líder y con gran reconocimiento local dada la excelencia y exigencia académica impartida en los diferentes ambientes pedagógicos propuestos donde de manera lúdica, didáctica, interactiva y participativa se construyen permanentes espacios socioculturales para que los estudiantes desarrollen habilidades artísticas, éticas, comunicativas, axiológicas, biofísicas y de todo orden, que les permitan proyectarse a la comunidad de manera positiva y así fortalecer su participación en el entorno social. Los egresados del GIMNASIO OBREGÓN fortalecerán sus competencias en el manejo del idioma inglés y desarrollarán armoniosamente las cuatro habilidades básicas a través de programas de inmersión natural y del enfoque comunicativo, con un alto nivel de comprensión, de tal forma que puedan responder eficientemente a los desafíos que se le presenten. De igual forma, adquirirán las herramientas necesarias para ingresar al mundo laboral de manera que estén en la capacidad de tomar decisiones acertadas y puedan contribuir positivamente en la sociedad. Artículo 5. POLITICA DE CALIDAD: El GIMNASIO OBREGÓN en cumplimiento su misión y visión brinda una educación de calidad basado en la exigencia académica, formación en valores, habilidades comunicativas, pensamiento crítico, compromiso social, cultural e investigativo, que gestiona la 
+
+propiedad intelectual para el desarrollo de seres humanos competentes y propositivos, así mismo desde temprana edad se brindan las herramientas necesarias para el manejo del inglés como segunda lengua. Dichos procesos son orientados por un equipo de talento humano idóneo y comprometido con la calidad del servicio educativo, dando un manejo adecuado a los recursos, el cumplimiento de requisitos aplicables y la satisfacción de las necesidades y expectativas de la comunidad educativa y las partes interesadas, todo para garantizar el mejoramiento continuo del sistema de gestión de calidad. Artículo 6. OBJETIVOS DE CALIDAD: 1.- Mejorar los niveles de desempeño alcanzados por los estudiantes en todos los niveles ofrecidos por la institución. garantizando la calidad en la formación en valores, habilidades comunicativas, pensamiento crítico, compromiso social, cultural e investigativo ofrecida a los estudiantes, mejorando el desarrollo de seres humanos competentes y propositivos. 2.- Contar con un Talento Humano idóneo y comprometido con la calidad del proceso enseñanza aprendizaje. 3.- Establecer y mantener un sistema de calidad con el fin de garantizar el mejoramiento continuo de los procesos, el cumplimiento de los requisitos aplicables a través de una retroalimentación de la satisfacción de la comunidad educativa y partes interesadas. 4.- Garantizar la formación de estudiantes competentes en una lengua extranjera (inglés) a nivel comunicativo. Artículo 7. CERTIFICACIÓN DE CALIDAD: Esta es una valiosa herramienta de calidad y excelencia utilizada por diferentes organizaciones para mejorar su gestión. Este poderoso instrumento de cambio permite la planeación y la focalización de las personas en el desarrollo institucional, de tal forma que guía a la organización por el camino de la calidad hasta lograr la excelencia en todos sus componentes institucionales a través de la autoevaluación, como procedimiento sistemático de mejora continua de la gestión. El Gimnasio Obregón está certificado bajo la norma ISO 9001:2015, que constituye la base de su sistema de gestión de calidad. Esta norma internacional se enfoca en los elementos clave de la gestión de calidad con los que la institución cuenta, con el objetivo de mantener un sistema efectivo que permita gestionar y mejorar de manera continua la calidad de los servicios ofrecidos. Además, la institución está alineada con la norma ISO 21001:2018, el primer estándar internacional que establece los requisitos para un sistema de gestión en organizaciones educativas, orientado a optimizar los servicios educativos y superar las expectativas de los estudiantes, personal académico, empleados y otros interesados. Artículo 8. VALORES INSTITUCIONALES: 1. FE: Ilumina toda la existencia, vocación del ser humano y orienta toda su vida a partir de los valores del evangelio. 2. FRATERNIDAD: es la actitud que, en la fe, se relaciona con sus hermanos para realizar un proyecto de vida. 3. JUSTICIA: le ayuda a sensibilizarse y a percibir el pecado de injusticia que afecta a grandes zonas del mundo, especialmente en Colombia y América Latina, y le lleva a poner en juego los medios necesarios para exigir y ejercer derechos cívicos, políticos y sociales. 4. SERVICIO: entregarse generosamente a los demás en espíritu de colaboración y busca la promoción del hombre en el ejercicio de la educación o en el apoyo a la misma. 5. COMPROMISO: lleva a compartir con sus hermanos los hombres, en especial con los más pobres y desfavorecidos, un proyecto educativo con el cual compromete su vida, su tiempo, sus talentos y sus bienes. 6. HONESTIDAD: Comportarse de manera transparente con sus semejantes, es decir sin ocultar nada, diciendo siempre la verdad y obrando en forma recta y clara. Es la base para la realización de cualquier proyecto humano. 7. RESPETO: Es la base fundamental para una convivencia sana y pacífica entre los miembros de la Comunidad Educativa. Implica tener una clara noción de los derechos fundamentales de cada persona y abarca todas las esferas de la vida, respeto a: sí mismo, los semejantes, la naturaleza en general, las leyes, las normas sociales, la memoria de los antepasados, la patria en que nacimos. 8. TOLERANCIA: Reconocimiento a la otra persona como ser humano, con derecho a ser aceptado en su individualidad y su diferencia. 
+
+9. RESPONSABILIDAD: Responder con habilidad y entereza a todos los compromisos adquiridos ante la familia, la Institución y la Comunidad Educativa. 10. LIDERAZGO: Principio indispensable para fomentar espacios de participación. 11. PUNTUALIDAD: Es la disciplina de estar a tiempo para cumplir con nuestros deberes, la puntualidad dota nuestra personalidad de carácter, orden y eficiencia. 12. CORRESPONSABILIDAD: Es el compromiso compartido que como miembros de la comunidad educativa tenemos “para generar reglas básicas encaminadas a fortalecer la autonomía, la autorregulación y el autocuidado” para afrontar las condiciones de salud pública, socioemocionales, económicas y familiares con el objeto garantizar el ejercicio pleno de nuestros derechos y deberes. Artículo 9. OBJETIVOS INSTITUCIONALES Y RESPONSABILIDAD DEL COLEGIO. A. OBJETIVO GENERAL DEL GIMNASIO OBREGÓN Orientar la acción educativa hacia la formación integral de los estudiantes en los aspectos social, ético y comunicativo de modo que puedan desarrollar sus habilidades a partir de su interacción con el medio familiar, escolar, artístico y social, con miras a facilitar la convivencia, teniendo como marco de referencia el ambiente educativo que se brinda en la Institución. B. OBJETIVOS ESPECÍFICOS DEL GIMNASIO OBREGON 1. Propiciar un ambiente de enseñanza – aprendizaje a través de su quehacer pedagógico involucrando a la familia como elemento esencial que estimula el desarrollo integral de los niños. 2. Estimular la creatividad de los estudiantes mediante el desarrollo de programas que involucren componentes lúdicos y artísticos. 3. Incluir las TICs como herramientas de apoyo al proceso de enseñanza aprendizaje y desarrollo de habilidades en los estudiantes de los sistemas de información y comunicación. 4. Buscar permanentemente elevar el nivel académico desarrollando las cuatro habilidades básicas y el manejo de las competencias como el “Saber Ser y Saber Hacer en contexto”. 5. Profundizar en inglés estimulando y potenciando las competencias comunicativas del estudiante a través del uso permanente del inglés como segunda lengua por medio del enfoque comunicativo y la inmersión natural. 6. Desarrollar proyectos (FERIA EMPRESARIAL – FERIA TEGNOLÓGICA) apoyados en la Cátedra de Gestión Empresarial, desde el primero hasta el último grado que ofrece la institución con el fin de ampliar la visión de los estudiantes en el campo empresarial, financiero y tecnológico, buscando la formación de ciudadanos autónomos y con gran compromiso con la comunidad de manera que estimulen el trabajo en equipo y la búsqueda del bien común. 7. Propiciar el aprendizaje de procesos de lectura desde temprana edad a través del Método Glenn. 8. Aprovechar los intereses de los niños de Preescolar a través de una metodología activa, lúdica y participativa utilizando el método de enseñanza global de lectura apoyado en la teoría Glenn Doman y la Filosofía Reggio Emilia del constructivismo y el aprendizaje significativo. 9. Formar en Valores promoviendo e inculcando continuamente los valores humanos como ejes articuladores de todos y cada uno de los procesos y vivencias institucionales lo cual produce progresivamente niños, niñas y adolescentes respetuosos, responsables, honestos, críticos, solidarios, tolerantes y creativos. 10. Promover permanentemente el desarrollo de la autoestima, el autocontrol y el autodominio en los estudiantes para que, creciendo en un ambiente de amor y seguridad personal, se hagan conscientes de sus capacidades y posibilidades de realización personal y social. 11. Fomentar en todos los miembros de la comunidad educativa el amor por la patria y vivenciar los derechos y deberes que como estudiantes y ciudadanos tenemos a través del Proyecto de Democracia y el desarrollo de Competencias Ciudadanas. 12. Crear una conciencia en los estudiantes sobre el cuidado y respeto a su cuerpo mediante el desarrollo de proyectos que promuevan hábitos de higiene y el sano desarrollo. 13. Capacitar a los niños de Preescolar en el desarrollo de habilidades básicas en lo cognoscitivo, socio-afectivo, psicomotriz, artístico, axiológico (Valores), para que ingresen a la Educación Básica con mayor autonomía. 14. Estimular el desarrollo de la motricidad desde temprana edad en Preescolar, lo cual les permitirá a los preescolares adaptarse con mayor dinamismo y destreza al medio que les rodea. 15. Orientar los recursos para ofrecer un ambiente que favorezca el desarrollo armonioso de la personalidad de los estudiantes. 16. Ejecutar lo propuesto en la reestructuración del Proyecto Educativo Institucional. 17. Evaluar permanentemente el quehacer pedagógico en búsqueda de la excelencia académica. 
+
+TITULO II. - “PROCESO DE ADMISIÓN, MATRÍCULA Y RETIRO VOLUNTARIO” CAPITULO I. ADMISIONES ARTÍCULO 11. ADMISIONES DE ASPIRANTES A ESTUDIANTES NUEVOS Todos los aspirantes a formar parte del Gimnasio Obregón deben cumplir con el protocolo de admisiones establecido por el colegio. El Gimnasio Obregón abre su convocatoria para estudiantes nuevos 2027 el día 21 de julio del año 2026, la institución se reserva el derecho de admisión de estudiantes, así como la organización interna establecida para dicho proceso. PROCEDIMIENTO PARA LA ADMISIÓN: En el Gimnasio Obregón el proceso de admisión es una vivencia inicial muy importante para nosotros y las familias que se encuentran interesadas en conocer nuestro Proyecto Educativo Institucional, en donde nuestros estudiantes son los constructores de sus procesos y los adultos acompañan y apoyan. Creemos firmemente en la educación en valores como primer pilar de la formación, porque sabemos y conocemos la tarea de educar para la vida. Por esto, nuestro primer encuentro en el proceso de admisiones es considerado como una experiencia significativa para los aspirantes y para sus familias. El proceso de Admisión se encuentra descrito en el instructivo que encontraran publicado en la página web institucional: www.gimnasiobilingueobregon.edu.co PROCESO DE ADMISIÓN: La institución a través del consejo directivo ha considerado que este proceso debe realizarse bajo estándares de calidad y exigencia en la selección de los aspirantes, por ello realiza actividades altamente profesionales para dicho proceso lo cual involucra el reconocimiento económico a todo el personal que realiza dichas actividades en horario extraescolar. 1. Inscripción. Este proceso se realizará de acuerdo con los cupos disponibles. Al formulario de inscripción diligenciado, deberán anexar los siguientes documentos: 2. Formulario de relación intercolegial debidamente diligenciado por la institución de la que procede el (la) aspirante en sobre sellado por la institución. 3. Fotocopia del último boletín valorativo del colegio de procedencia. 4. Certificado de comportamiento escolar emitido por el colegio actual. 5. Encuentro de observación con estudiantes para los grados de preescolar y presentación de pruebas de admisión para proceso desde grado primero de primaria, debe presentar prueba académica en las áreas básicas, es decir: Matemáticas, Lenguaje, inglés y Ciencias Naturales para los aspirantes a bachillerato. 6. Publicación de aspirantes que continúan en el proceso. 7. Entrevista con Orientación Escolar, (según aspectos evidenciados en el encuentro de observación) a la cual deben asistir los dos padres y el aspirante si es necesario. 8. Comité de admisiones; Cumplidos los pasos anteriores determina el grupo de admitidos 9. Publicación listado aspirantes admitidos. NOTA: La institución se reserva el derecho de informar aspectos por los cuales no se avanza en el proceso de admisión y hace entrega, única y exclusivamente, de información de estudiantes admitidos. COMITÉ DE ADMISIÓN El comité de admisión de estudiantes nuevos está conformado por: 1. El Rector 2. Vicerrector 3. Coordinador Administrativo 4. Coordinador académico 5. Coordinador de preescolar. 6. Coordinador de convivencia 7. Orientador escolar. 8. Secretaria Académica 
+
+CAPITULO III. - SÍMBOLOS INSTITUCIONALES 
+
+Artículo 10. SÍMBOLOS DEL GIMNASIO OBREGÓN: 
+
+BADERA ESCUDO P.E.I. 
+
+Art, Communication and 
+
+Living Together 
+
+El blanco: Simboliza la verdad, sencillez y alegría. 
+
+El azul: Representa la profundidad y el anhelo de 
+
+conseguir la paz. 
+
+El ramo de olivo: Símbolo de paz. 
+
+El sol: Símbolo de libertad y claridad. 
+
+El libro: Identifica la ciencia y la sabiduría. 
+
+Arte, Comunicación y 
+
+Convivencia 
+
+UNIFORMES 
+
+Son considerados símbolos institucionales; por tal razón su porte debe ser decoroso y organizado sin prendas diferentes a las establecidas por 
+
+la institución. 
+
+HIMNO 
+
+Coro 
+
+Cantemos un himno al Gimnasio 
+
+Obregón 
+
+Sabemos que es el mejor 
+
+Entre libros y amigos día a día 
+
+compartimos 
+
+Y aprendemos el saber y el amor 
+
+I 
+
+Siempre listos y alegres marchemos 
+
+De la mano de la educación 
+
+Con la frente en alto y nunca olvidando 
+
+Lo que me da mi Gimnasio Obregón 
+
+IV 
+
+Nuestra insignia son todos los valores 
+
+De la ciencia portamos el don 
+
+Arte, alegría, justicia y cultura 
+
+Y encontramos a la vida razón 
+
+II 
+
+Ciencia y libertad es nuestro lema 
+
+Luchemos por un mundo mejor 
+
+Con amor y respeto educamos 
+
+En el Gimnasio Bilingüe Obregón 
+
+V 
+
+Con esfuerzo, virtud y conciencia 
+
+Impartimos formación personal 
+
+Con amigos, maestros y familia 
+
+Construimos forjando un ideal 
+
+III 
+
+Mi colegio de puertas abiertas 
+
+Nos espera un futuro mejor 
+
+El mañana está escrito en tu diario 
+
+Obregón, Obregón, Obregón 
+
+VI 
+
+Mi colegio de puertas abiertas 
+
+Nos espera un futuro mejor 
+
+El mañana está escrito en tu diario 
+
+Obregón, Obregón, Obregón 
+
+ 
+
+INICIO DEL PROCESO DE MATRÍCULA. Inducción de ingreso. Parágrafo 1: Se admiten aspirantes a estudiantes nuevos desde el nivel de Prekinder (3 años) hasta el grado séptimo siempre y cuando haya cupo para el grado al que aspira. Parágrafo 2: Tanto los estudiantes como los padres de familia al ingresar al Gimnasio Obregón deben conocer la filosofía institucional y sus principios e identificarse con los mismos. Se recuerda que el contrato de cooperación educativa, suscrito por el padre de familia o acudiente y el estudiante el día de la matrícula, tendrá una vigencia de un año lectivo, quedando en libertad las dos partes para dar continuidad. Parágrafo 3: Si al presentar las pruebas de admisión se encuentran debilidades académicas considerables, la institución podrá negar el cupo al aspirante por no poseer las habilidades mínimas requeridas por la institución educativa para el grado al que se presenta. Parágrafo 4: Si en la prueba se encuentran dificultades posibles de superar al momento de la matrícula, los padres de familia y el(la) estudiante deberán firmar compromiso académico ante Coordinación Académica, quien realizará estricto seguimiento para evidenciar la superación de las dificultades. En caso de que los procesos de nivelación incurran en costos adicionales, éstos deberán ser asumidos por los padres de familia. Parágrafo 5: Dada la intensidad horaria que maneja el colegio en la asignatura de inglés, se les recomienda a los estudiantes nuevos que requieran nivelación asistir a un curso de inglés en una entidad certificada cuyo costo debe ser asumido por los padres de familia, Los padres deben hacer entrega al colegio de una certificación de dicho curso. Parágrafo 6: Si la información aportada por los padres de familia de los aspirantes al ingresar a sus hijos a la institución ya sea en los documentos escritos o verbalmente, no es veraz, perderán el cupo y el derecho a continuar el proceso de admisión de la institución. NOTA: Todos los documentos requeridos deben ser entregados por los padres de familia a la institución, sin excepción en una carpeta según indicación de la secretaria, debidamente legajados, en los días asignados por la Institución. Tanto las Pruebas de Admisión como la etapa de Nivelación, si fuere necesaria, se realizarán en las fechas señaladas por la institución. 
+
+Artículo 12. Edancia mínima para ser admitido en la institución en ítems claros y ordenados por grado y edad: 
+
+Pre Kinder: 3 años cumplidos  
+
+Kinder: 4 años cumplidos  
+
+Preschool: 5 años cumplidos  
+
+Primero: 6 a 7 años  
+
+Segundo: 7 a 8 años  
+
+Tercero: 8 a 9 años  
+
+Cuarto: 9 a 10 años  
+
+Quinto: 10 a 11 años  
+
+Sexto: 11 a 12 años  
+
+Séptimo: 12 a 13 años  
+
+Octavo: 13 a 14 años  
+
+Noveno: 14 a 15 años  
+
+Décimo: 15 a 16 años  
+
+Once: 16 a 17 años 
+
+CAPÍTULO II. – MATRÍCULAS ARTÍCULO 13. MATRÍCULA: La matrícula es un acto jurídico voluntario que formaliza la vinculación del aspirante admitido. Se realiza mediante un “Contrato de prestación de servicios educativos”, que podrá renovarse para cada año académico si se ha dado cabal cumplimiento a los compromisos académicos, normativos y de convivencia, de acompañamiento familiar y obligaciones de tipo económico contraídas. GIMNASIO OBREGÓN 2026 Manual de Convivencia Escolar Página 24 Mediante este contrato las partes: Gimnasio Obregón, padre y madre de familia o acudiente y estudiante, se comprometen a conocer, aceptar y acatar el Proyecto Educativo Institucional y respetar tanto las cláusulas contractuales como el presente Manual de Convivencia. En caso de no presentarse el día y la hora señalada para la matrícula, sin justificación ni autorización del rector, se dispondrá del cupo. Parágrafo 1: Solo tendrán acceso al servicio educativo en el GIMNASIO OBREGON, los estudiantes, es decir, los niños, niñas y adolescentes cuyos padres de familia hayan cumplido con los requisitos exigidos para el ingreso a la institución y que hayan formalizado el contrato de matrícula. Parágrafo 2: El cupo en la institución es limitado. Sólo se inscriben los estudiantes cuyos nombres consten en la lista que Secretaría pase a Coordinación. ARTÍCULO 14. ANTICIPO DE MATRÍCULA: El colegio por decisión del Consejo Directivo continuará con el proceso de Anticipo de matrícula que para el año 2027, el cual se realizará en el mes de julio, para todos aquellos estudiantes que se encuentran estudiando en la institución y que desean continuar su proceso educativo en el Gimnasio Obregón, de la siguiente manera: A. Se acuerda que el pago a realizar equivaldrá al 50% del valor correspondiente a la matrícula del año en curso o el que el Consejo Directivo determine. B. El anticipo de matrícula es un mecanismo que permite a los Padres de Familia e Institución conocer la continuidad de los estudiantes y mantener su cupo. Este mecanismo fue creado por los Padres de Familia desde el año 2000 y es de voluntaria aceptación dadas las necesidades educativas del sector y poder ofrecer los cupos realmente disponibles. C. El anticipo de matrícula que realicen en las fechas establecidas por la institución NO ES REEMBOLSABLE en caso de que no hagan uso del cupo para el siguiente año por cualquier circunstancia. D. Para realizar el proceso de anticipo de matrícula, los padres de familia deben encontrarse a Paz y Salvo con el pago de pensiones hasta el mes de Julio del año y con los demás servicios u obligaciones que hayan contraído con la institución, de lo contrario no será aceptada su solicitud. E. Este proceso de Anticipo de Matrícula garantiza el cupo para el siguiente año, siempre y cuando formalicen su matrícula en el mes de diciembre en las fechas comunicadas oportunamente a los padres para la legalización y realización de pagos pendientes que corresponden a la matrícula. (Para formalizar matrícula se debe cancelar el valor restante de Matrícula y 100% Cobros Periódicos.) De igual forma deben hacer entrega de los documentos requeridos para renovación de matrícula. De lo contrario, el Gimnasio Obregón podrá asignar su cupo a estudiantes nuevos en el mes de enero del año siguiente sin que haya lugar a reclamación de su parte. F. En caso de no realizar anticipo de matrícula, dejan en libertad al Gimnasio Obregón para que asigne su cupo a estudiantes nuevos que soliciten ingreso a la institución a partir del primer día hábil del mes de septiembre del año en curso. Parágrafo 1: Quienes NO realicen el proceso de legalización DE SU MATRICULA en las fechas asignadas en el mes de diciembre, perderán el cupo de acuerdo con lo establecido por el Ministerio de Educación, así hayan realizado proceso de anticipo de matrícula. Parágrafo 2: Si los padres y/o acudientes realizan la Matrícula después de los plazos y fechas fijados en el periodo ordinario, estarían realizando Matrícula Extemporánea. Esto, siempre y cuando los padres y/o acudientes estén autorizados previamente para realizar dicha matrícula extemporánea por Rectoría. Parágrafo 3: El día de la clausura general de labores se hará entrega a todos los padres de familia que se encuentren a Paz y Salvo con la institución los documentos para formalizar y legalizar la matrícula del estudiante en las fechas asignadas por la institución en el mes de diciembre. GIMNASIO OBREGÓN 2026 Manual de Convivencia Escolar Página 25 ARTÍCULO 15. MATRÍCULA ESTUDIANTES NUEVOS Para formalizar el proceso de Matrícula, los padres de familia deberán entregarla siguiente documentación que se encuentra cargada en la página web del colegio: 1. Documento de identidad vigente. 2. Formato Acompañamiento estudiantil debidamente diligenciado (firmado por el acudiente y el estudiante, así como también la foto pegada en el espacio asignado). 3. Hoja de matrícula firmada con esfero negro por el padre o acudiente y el estudiante (si el estudiante es de preescolar utilizar en la parte de firma la huella del dedo índice mano derecha) 4. Conocer, aceptar y firmar el Contrato de prestación de servicios que incluye la autorización de tratamiento de datos. Ley 1582/12 el Pagaré y Carta de Instrucciones (estos documentos deben ser autenticados en notaria) y la Hoja de Matrícula. (Sí el estudiante es de Preescolar utilizar en la parte de firma la huella del dedo índice mano derecha) 5. Certificado reciente de afiliación al Sistema de Seguridad Social en Salud. 6. Certificado de Audiometría y Agudeza Visual. (Sólo para preescolar y primaria) 7. Planilla informe médico debidamente diligenciada y firmada por los padres del estudiante. 8. Certificado académico del año anterior con firma y sello de Rectoría. 9. Paz y Salvo del Colegio anterior. 10. Presentar las consignaciones realizadas por concepto de matrícula y otros costos educativos legalmente establecidos por la institución. 11. Los demás que a consideración de la Institución sean requeridos y no se encuentren contemplados en los numerales anteriores. ARTÍCULO 16. MATRICULA ESTUDIANTES ANTIGUOS 1. Haber reservado cupo por medio del anticipo de matrícula en las fechas asignadas por la institución. DOCUMENTACIÓN ESTUDIANTES ANTIGUOS 2. Hoja de matrícula firmada por los padres y el estudiante (si el estudiante es de preescolar utilizar en la parte de firma la huella del dedo índice mano derecha) 3. Conocer, aceptar y firmar el Contrato de prestación de servicios, el Pagaré, Carta de Autorización Pagaré (estos documentos deben ser autenticados en notaria) (Sí el estudiante es de Preescolar utilizar en la parte de firma la huella del dedo índice mano derecha). NOTA: Los documentos Pagaré y Carta de Autorización Pagaré NO deben ser perforados al entregar en la institución. En cualquier momento se puede solicitar actualización y/o renovación de cualquier documento para la matrícula 4. Encontrarse a Paz y salvo por todo concepto con la institución. 5. Anexar la documentación solicitada por la institución y dada a conocer en la entrega de paquetes de matrícula para el año siguiente. 6. Carnet de vacunas y certificado de afiliación a EPS. Para estudiantes antiguos de la sección de preescolar y grado primero. ARTÍCULO 17. RENOVACIÓN DE MATRÍCULA CON COMPROMISOS ESPECÍFICOS Cuando el estudiante ha presentado faltas de comportamiento pero que se ha evidenciado superación de las mismas durante el proceso o si ha presentado persistencia en bajo rendimiento académico, ANTES de renovar matrícula para el año lectivo siguiente, los padres de familia y el(la) estudiante deberán firmar compromiso académico o convivencial, de acuerdo al proceso académico-formativo-convivencial llevado a cabo en la institución con el fin de que tanto el(la) estudiante como los padres de familia asuman un compromiso frente a dichas dificultades. ARTÍCULO 18. CAUSALES PARA LA NO RENOVACIÓN DE LA MATRICULA. 1. Cuando la familia no se presente a diligenciar el proceso de matrícula o renovación de la misma en los días señalados. 2. La falta de acompañamiento de los padres o acudientes, reflejada en su ausencia a las citaciones o convocatorias que les efectúan los docentes o directivos de la institución. 3. Cuando los padres de familia y/o acudiente no se encuentre a paz y salvo con la Institución por concepto de todas las obligaciones económicas contraídas en el año o años anteriores. 4. Cuando los padres de familia no se adaptan a la filosofía institucional y manifiesta su inconformidad en grupos de WhatsApp u otros medios ajenos a los canales de comunicación oficiales de la institución. 5. Cuando los padres de familia y/o los estudiantes faltan al respeto algún miembro de la comunidad educativa 
+
+6. Cuando el estudiante falte a más del 25% de las actividades escolares, sin presentar excusa suficiente. 7. Cuando el estudiante pierda el grado por dos veces consecutivas. 8. Cuando se determine como una estrategia formativa a una falta del estudiante, la no renovación de matrícula para el año siguiente. 9. Cuando el resultado de la evaluación de la disciplina y/o convivencia del estudiante al final del año escolar sea valorada con bajo desempeño por parte de la Comisión de Evaluación y Promoción. 10. Cuando el/la estudiante incurra en faltas disciplinares muy graves y/o situaciones convivenciales tipo III durante el segundo semestre del año lectivo. 11. Cuando el/la estudiante desconozca la filosofía institucional reflejándose en el documento ACOMPAÑAMIENTO ESTUDIANTIL un reiterado incumplimiento a las normas establecidas en el Manual de convivencia. ARTÍCULO 19. CAUSALES DE TERMINACIÓN DEL CONTRATO DE MATRÍCULA El colegio podrá dar por terminado el contrato de matrícula, en el momento en el que se compruebe cualquiera de las causales siguientes o flagrantes violaciones a este reglamento o manual de convivencia, sin perjuicio de las acciones penales o civiles que puedan ocasionarse con la infracción de alguna de las normas estipuladas: 1. Voluntad expresa de las partes. 2. Terminación del año académico o año lectivo. 3. Cuando se compruebe que se han entregado al plantel certificaciones o informes falsos o cuando cumplido el plazo estipulado por las normas vigentes en la institución no se entreguen los documentos requeridos. 4. Cuando el estudiante sea objeto de intervención penal o judicial con la pérdida de la libertad o reclusión en centro cerrado 5. Cuando por prescripción médica o psicológica, se considere inconveniente la permanencia del estudiante en la institución o que requiera para su formación de una institución especializada. 6. Cuando el estudiante tiene un compromiso Pedagógico académico/disciplinar y/o convivencial y en la Comisión de Promoción respectiva se verifique su incumplimiento. ARTÍCULO 20. COSTOS EDUCATIVOS Los costos educativos del Gimnasio Obregón se rigen por los criterios de recuperación de los costos incurridos en el servicio, la naturaleza de entidad sin ánimo de lucro, la calidad del servicio y la legalidad. Cada usuario del servicio educativo se compromete a pagar los costos educativos en cuotas iguales, según especificaciones del contrato de matrícula o Cooperación Educativa. TARIFAS DE MATRÍCULAS, PENSIONES, COBROS PERIÓDICOS Y OTROS COBROS PARA LA PRESTACIÓN DEL SERVICIO EDUCATIVO: El Consejo Directivo de la institución educativa en uso de sus atribuciones legales y en especial las conferidas en los artículos 202 y 203 de la Ley 115 de 1994, Decreto 2253 de 1995 (hoy compilado en el Decreto 1075 de 2015), aprueba cada año el incremento del costo de matrículas y pensiones, incluyendo los componentes de cobros periódicos y otros cobros. ARTÍCULO 21. VALOR DE LA MATRICULA: Es la suma anticipada que se paga una vez al año en el momento de formalizar la vinculación del educando al servicio educativo ofrecido por el establecimiento educativo privado o cuando esta vinculación se renueva, de acuerdo con lo dispuesto en el artículo 201 de la Ley 115 de 1994. Este valor no podrá ser superior al diez por ciento (10%) de la tarifa anual que adopte el establecimiento educativo, atendiendo lo dispuesto en el Manual de Evaluación y Clasificación de Establecimientos Educativos Privados. CAPÍTULO III. - RETIRO VOLUNTARIO. ARTÍCULO 22. PROCEDIMIENTO: 1. Los padres de familia y/o acudientes que tomen la decisión de cancelar el contrato educativo establecido entre ellos y el colegio, deben presentar una carta escrita, dirigida al rector, en la cual manifiestan su voluntad de retirar el estudiante y diligenciar el formato dispuesto para el retiro. 2. Para oficializar el retiro, la carta debe ser radicada en la Secretaría General de la institución y contar con el visto bueno del rector, quien informará, mediante memorando interno, a la oficina de contabilidad y a las demás dependencias. 3. Para la devolución de los documentos entregados el día de la matrícula, la familia debe estar a paz y salvo por GIMNASIO OBREGÓN 2026 Manual de Convivencia Escolar Página 27 todo concepto con el colegio hasta la fecha inclusive del día en que se radica la carta en rectoría. Parágrafo único. Si los padres de familia deciden voluntariamente retirar al estudiante, pero no dan aviso a la institución, se dará continuación al contrato educativo lo que implica morosidad en los costos sobrevinientes. DEVOLUCIONES DE MATRÍCULA: La ausencia del estudiante en forma temporal o total dentro del mes por enfermedad, por intercambios o por causa fortuita o fuerza mayor, no dará el derecho a los padres de familia y/o acudiente a descontar suma alguna de lo obligado a pagar o a que el colegio, haga devolución o abonos posteriores. Para los casos de padres de familia y/o acudientes autorizados que han cancelado de manera anticipada la totalidad de los costos educativos y van a hacer retiro de todos o algunos de los servicios, deberán pasar por escrito al colegio una comunicación en la que expresen los motivos del retiro. Una vez estudiada dicha comunicación, será el colegio el que decida si es o no procedente la devolución de algún porcentaje de dinero. En caso de retiro de la institución o cambio, antes del inicio del año escolar, para quien solicite devolución de matrícula durante la primera semana del año escolar, se reconocerá el 50% del costo de la misma y la totalidad de lo cancelado por otros conceptos. Para tal fin, el padre de familia deberá comunicar, a través de documento escrito, a la institución, la razón por la cual desiste del cupo y adjuntar el original de las consignaciones realizadas. El Gimnasio Obregón reembolsará el dinero correspondiente en los siguientes tres días hábiles. Sin embargo, si la Institución ha incurrido en algún costo de elaboración de material o por algún otro concepto, este será descontado de los valores a devolver. Una vez iniciadas las clases no habrá devolución de dinero por ningún concepto. Pensión: Suma anual que se paga por el derecho de la estudiante de disfrutar durante el respectivo año académico, de servicios educativos, cuya forma de pago se define en forma explícita dentro del contrato debidamente formalizado al momento de la matrícula el valor total anual será igual al 90% de la tarifa que adopte el colegio. El cobro de dicha pensión se hará en diez (10) mensualidades de acuerdo con lo establecido en el contrato de cooperación educativa. ARTÍCULO 23. ESTÍMULOS POR PAGOS: En su autonomía el Gimnasio obregón ofrece los siguientes estímulos: 1. Quienes cancelen la totalidad de los diez meses de pensión por adelantado tendrán un descuento del 5%. 2. El Colegio a mera liberalidad para los estudiantes que ingresan a prekínder, kínder y transición para el año 2026, ofrece beneficios sobre el valor de las pensiones mensuales, según las siguientes CONDICIONES establecidas por la institución: • Pago oportuno de las pensiones entre los diez (10) primeros días de cada mes. • Cumplimiento de las normas convivenciales y disciplinarias establecidas en el manual de convivencia • Desempeño académico conforme a lo establecido según el manual de convivencia. Nota importante: Los estímulos por pagos NO SON ACUMULABLES El incumplimiento de alguna de las condiciones citadas dará lugar a la terminación del beneficio, sin que medie ningún tipo de salvedad. El incumplimiento reiterado en los pagos de las pensiones en las fechas fijadas acarreará la pérdida de cupo para el año siguiente. Parágrafo único: El valor de matrícula y pensión será ajustado anualmente, cuyos valores serán aprobados previamente por el Consejo Directivo de la institución, teniendo en cuenta para tal fin las directrices emanadas por el Ministerio de Educación Nacional en materia de costos educativos. Considerando el análisis realizado en el Consejo Directivo de la institución y teniendo en cuenta lo contemplado en la Resolución No. 19-083, por medio de la cual se autoriza la fijación y aplicación de las tarifas de matrícula, pensiones 
+
+1. Costos Educativos 2026 (Matrícula y Pensión) 
+
+Prekinder (PK): Costos: $7.615.654 | Matrícula: $761.565 | Pensión: $685.409  
+
+Kinder (KG): Costos: $7.235.550 | Matrícula: $723.555 | Pensión: $651.199  
+
+Preschool (PS): Costos: $7.160.930 | Matrícula: $716.093 | Pensión: $644.484  
+
+Grado 1: Costos: $7.080.773 | Matrícula: $708.077 | Pensión: $637.270  
+
+Grado 2: Costos: $6.539.993 | Matrícula: $653.999 | Pensión: $588.599  
+
+Grado 3: Costos: $6.508.529 | Matrícula: $650.853 | Pensión: $585.768  
+
+Grado 4: Costos: $6.510.419 | Matrícula: $651.042 | Pensión: $585.938  
+
+Grado 5: Costos: $6.510.419 | Matrícula: $651.042 | Pensión: $585.938  
+
+Grado 6: Costos: $6.510.419 | Matrícula: $651.042 | Pensión: $585.938  
+
+Grado 7: Costos: $6.251.768 | Matrícula: $625.177 | Pensión: $562.659  
+
+Grado 8: Costos: $5.872.890 | Matrícula: $587.289 | Pensión: $528.560  
+
+Grado 9: Costos: $5.479.302 | Matrícula: $547.930 | Pensión: $493.137  
+
+Grado 10: Costos: $5.226.129 | Matrícula: $522.613 | Pensión: $470.352  
+
+Grado 11: Costos: $5.266.712 | Matrícula: $526.671 | Pensión: $474.004  
+
+2. Otros Cobros Periódicos 2026 
+
+Carnet estudiantil y duplicado: $20.000  
+
+Derechos de grado once (acta y diploma): $240.000  
+
+Duplicado de acta y diploma de grado (voluntario): $85.000  
+
+Certificaciones y constancias (voluntario): $15.000  
+
+Plataforma de comunicaciones: $50.000  
+
+Actividades extracurriculares (voluntario): $100.000  
+
+Seguro de accidentes (voluntario): $35.000  
+
+Salidas escolares y convivenciales (voluntario): $220.000 
+
+En cuanto a Útiles Escolares para el año 2026 la propuesta presentada por la Institución es la de mantener el Listado de Útiles y Textos Escolares del año 2025, en concordancia con lo definido por el Ministerio de Educación Nacional de mantener los textos adoptados y atendiendo el soporte de resultados académicos y demás consideraciones presentadas por el Consejo Académico en lo relacionado con los Textos Escolares, el Consejo Directivo aprobó mantener la propuesta de UNOi, e incluir el material de integradas para el desarrollo de las asignaturas no contenidas en UNOi. A fin de conservar los estándares de calidad de los recursos educativos en pro del fortalecimiento del Proyecto Educativo Institucional y de la continuidad de la adquisición de competencias y habilidades de los estudiantes, los cuales están asociados ampliamente a los desarrollos tecnológicos de la educación del siglo XXI, como siempre lo ha garantizado y demostrado la institución. ARTÍCULO 24. COBROS OCASIONALES: GIMNASIO OBREGÓN 2026 Manual de Convivencia Escolar Página 29 Son aquellos costos que se generan a lo largo del año escolar y que no se encuentran incluidos dentro del valor de la matrícula, pensiones ni otros cobros periódicos, y cuya adquisición o participación es de carácter voluntario por parte de los padres de familia, quienes deciden libremente si los asumen o no. En caso de optar por ellos, deberán ser cancelados como otros cobros, tales como: 1. Convivencias, Salidas pedagógicas, ecológicas, recreativas o culturales. El costo y los requerimientos de estas actividades les será informado a los padres de familia a través de circular de acuerdo con los valores cobrados por los sitios a los que se determine asistir. 2. Martes de prueba, simulacros y otros cursos voluntarios. El costo de estas actividades les será informado a los padres de familia a través de circular de acuerdo con los valores cobrados por los aliados estratégicos que cuenta el Gimnasio Obregón. 3. Derechos Académicos para los grados Preschool (Transición de Educación Preescolar), Quinto de Primaria y Once. El valor de estos derechos se acuerda con los padres de familia de estos cursos en forma voluntaria. 4. Centros de interés: Son espacios lúdicos que se proyectan de acuerdo a la demanda de la comunidad educativa, se organizan en horario contrario a la jornada escolar y en donde los padres inscriben de manera voluntaria a sus hijos a estas actividades. 5. Constancias, certificados de estudios, copias de boletines que soliciten los padres de familia o diligenciamiento de formularios. Estos documentos serán entregados tres días hábiles después de la solicitud en la Secretaría del plantel. 6. Es deber de los padres de familia y estudiante realizar el pago de los daños ocasionados por el estudiante a muebles, enseres, equipos, e instalaciones. 7. Copia del Carné estudiantil y copia del recibo de pensiones. Si el padre de familia requiere de una copia de alguno de estos documentos, deberá presentar a la Secretaría del plantel una carta en la que manifiesta la pérdida de dicho documento y la solicitud de una copia de este cancelando el valor que este requiere, el cual le será entregado tres días hábiles después de realizada la respectiva solicitud. 8. Dual Diploma: Convenio doble titulación con entidades de Estados Unidos y Canadá ARTÍCULO 25. CLAUSULA DE APREMIO POR MORA Los valores que se generen por este concepto hacen parte integral de las obligaciones surgidas con ocasión del contrato de prestación de servicios y cooperación educativa firmado entre la Institución y el acudiente o representante legal del estudiante, el cual se rige por las disposiciones del Derecho Privado, Código Civil Colombiano Libro 4” Obligaciones y Contratos” En tal sentido, el acudiente o representante legal del estudiante, que realicen el pago de la pensión después del diez (10) de cada mes, deberán tener en cuenta las siguientes cláusulas que para tal fin se ha determinado: 1. Quienes cancelen del día Once (11) EN ADELANTE deberán cancelar un valor de $25.000 como cláusula de apremio. 2. El pagaré o título valor se hará efectivo en el momento en que el deudor y/o acudiente incumpla con su obligación financiera; a este efecto, debe firmarse en blanco para el cobro respectivo si fuese necesario y autenticado en notaria. 3. En el evento que deban adelantarse acciones judiciales necesarias para hacer efectivos los valores adeudados por los padres o acudientes por concepto de matrícula, cobros periódicos, otros cobros o pensiones, los gastos y honorarios que genere la acción judicial y/o extrajudicial correrán a cargo de los deudores o acudientes. 4. Los acudientes y/o deudores que generen mora, serán reportados a la central de riesgo, con el respectivo bloqueo que este reporte genera en los sectores financiero, comercial y educativo a nivel nacional. 5. Si no se cancela la pensión dentro de los (10) primeros días de cada mes, la institución requerirá al suscribiente del contrato de matrícula que esta situación causará una sanción por mora según lo dispuesto en el contrato y en el pagaré, de conformidad con el Código de Comercio (Articulo 709). 6. En caso de no cumplir con el pago el mes correspondiente, la institución requerirá mediante escrito al suscribiente del contrato, informándole que por no atender los pedimentos de pago realizados y hallarse en mora, la institución se ve en la obligación de comunicar esta situación a centrales de riesgos competente e incluir el caso en el cobro prejurídico, sustentado en el ejercicio de las acciones judiciales. Además, advertirá que la institución dará cabal aplicación contenido del Art 14 de la Resolución 010617 del 07 de octubre de 2019 Articulo 12. Retención de certificados de evaluación. En caso de no pago oportuno de los valores de la matricula o pensiones, los establecimientos educativos de carácter privado de preescolar, básica y media, podrán retener los informes de evaluación de los estudiantes, a menos que los padres o responsables de esta obligación puedan demostrar imposibilidad de pago por justa causa, en los términos del parágrafo 1 del artículo 2 de la Ley 1650 de 2013. En ningún caso, los establecimientos educativos podrán impedir a los estudiantes participar en el proceso educativo, lo que incluye presentar evaluaciones, retirarlos del salón de clase, participar de actividades pedagógicas, y demás actividades académicas”. 7. El suscribiente del contrato de la matrícula que llegue a esta situación, no tendrá derecho a la renovación del contrato para el año académico inmediatamente siguiente. 8. Si durante el tiempo de requerimiento de cobro o del proceso prejudicial, el padre de familia logra cumplir con su GIMNASIO OBREGÓN 2026 Manual de Convivencia Escolar Página 30 obligación, solicitará mediante escrito a la institución la reconsideración de la decisión rectoral, acompañada de la certificación de pago de la obligación, bien del departamento de contabilidad del Gimnasio o de la autoridad jurisdiccional competente, en caso de haberse iniciado el proceso civil. TITULO III. - “LA ORGANIZACIÓN INSTITUCIONAL Y EL GOBIERNO ESCOLAR” CAPITULO I. - ORGANIZACIÓN DE LA INSTITUCIÓN Artículo 26. ORGANIZACIÓN La comunidad educativa está constituida por las personas que tienen responsabilidades directas en el diseño, ejecución, evaluación y buena marcha del Proyecto Educativo Institucional del Gimnasio Obregón. Según su organización se distribuyen las funciones, los estudiantes de un curso dependen directamente de los profesores directores de grupo y los profesores de otras áreas dependen de los coordinadores como jefes inmediatos, a su vez los coordinadores dependen de la rectoría. CAPITULO II. - GOBIERNO ESCOLAR Artículo 27. MARCO LEGAL: “Gobierno escolar: cada establecimiento educativo del estado tendrá un Gobierno Escolar conformado por el Rector, el Consejo Directivo y el Consejo Académico. Las instituciones educativas privadas establecerán en su reglamento, un gobierno escolar para la participación de la comunidad educativa a que hace referencia el artículo 68 de la Constitución Política. En el gobierno escolar serán consideradas las iniciativas de los estudiantes, educadores, administradores y de los padres de familia en la adopción y verificación del reglamento escolar, la organización de las actividades sociales, deportivas, culturales, artística y comunitaria, la conformación de organizaciones juveniles y demás acciones que redunden en la práctica y en la participación democrática de la vida escolar. Los voceros de los estamentos constitutivos de la comunidad educativa podrán presentar sugerencias para la toma de decisiones de carácter financiero, administrativo y técnico pedagógico. Tanto en las instituciones públicas como privadas, la comunidad educativa debe ser informada para permitir una participación seria y responsable en la dirección de estas”. (Ley 115 de febrero 08 de 1994, artículo 142). Así mismo es obligatoria la conformación del Consejo de Padres de acuerdo con el Decreto 1286- 2005 Ministerio de Educación Nacional. La Comunidad Educativa elige a las personas que los representan. Ellas asumen esta responsabilidad en la organización, desarrollo y evaluación del proyecto educativo institucional que se ejecuta en el colegio. El Gobierno Escolar del Gimnasio Obregón está conformado por: Artículo 28. LA RECTORIA Es el representante legal del Gimnasio Obregón ante las autoridades educativas. Es considerado como máxima autoridad de la institución y tiene plena autonomía ante el Consejo Directivo en el desempeño de sus funciones académicas y de convivencia. Artículo 29. RESPONSABILIDADES DEL RECTOR Según el artículo 18 de la ley 1620 de 2013 en el Sistema Nacional de convivencia escolar y formación para los derechos humanos, la educación para la sexualidad y la prevención y mitigación de la violencia escolar. Además de las que establece la normatividad vigente y que le son propias, tendrá las siguientes responsabilidades: 1. Liderar la revisión y ajuste del proyecto educativo institucional, el Manual de Convivencia Escolar, y el sistema institucional de evaluación anualmente, en un proceso participativo que involucre a los estudiantes y en general a la comunidad educativa, en el marco del Plan de Mejoramiento Institucional. 2. Incorporar en los procesos de planeación institucional el desarrollo de los componentes de prevención y de promoción, y los protocolos o procedimientos establecidos para la implementación de la ruta de atención integral para la convivencia escolar. 3. Liderar el Comité Escolar de Convivencia acorde con lo estipulado en los artículos 12 Y 13 de la Ley 1620 de 2013. 4. Reportar aquellos casos de acoso y violencia escolar y vulneración de derechos sexuales y reproductivos de los niños, niñas y adolescentes del establecimiento educativo, en su calidad de presidente del Comité Escolar de Convivencia, acorde con la normatividad vigente y los protocolos definidos en la Ruta de Atención Integral y hacer seguimiento a dichos casos. 5. Las demás contenidas en las disposiciones legales vigentes plantear permanentemente los siguientes desafíos: a. Política de formación y práctica de estándares éticos y morales. b. Calidad de la educación: instituciones de clase mundial. 
+
+c. Entender y orientar el cambio de época. d. Consolidación de una cultura institucional e. Sostenibilidad institucional: generación y administración de recursos. Son funciones del Rector: 1. Representar a la institución ante las autoridades educativas y la comunidad escolar. 2. Mantener relaciones de calidad con las autoridades educativas y con la comunidad educativa para el continuo progreso educativo del colegio y el mejoramiento de la vida comunitaria. 3. Liderar y orientar el Consejo Directivo, el Consejo Académico, los Comités de Evaluación y Promoción y el Comité de Convivencia Escolar. 4. Orientar y dinamizar la ejecución del Proyecto Educativo Institucional para lo cual debe formular y promover planes anuales de acción. 5. Promover el proceso continuo de mejoramiento de la calidad del servicio educativo que ofrece la institución, a través de la búsqueda de sistemas educativos modernos y de reconocimiento internacional. 6. Identificar las nuevas tendencias pedagógicas, científicas, tecnológicas y culturales del mundo moderno para canalizarlas a favor del mejoramiento del Proyecto Educativo Institucional. 7. Determinar la política general de admisiones y retiros de estudiantes y personal docente. Esto incluye la asignación de cupos disponibles para la admisión de estudiantes nuevos. 8. Elaborar la proyección de tarifas anualmente y presentarla ante el Consejo Directivo para su revisión y aprobación. 9. Ejercer las funciones disciplinarias que le atribuyan la ley y el presente Manual de Convivencia Escolar. Artículo 30. EL CONSEJO DIRECTIVO Es una instancia directa de participación de la Comunidad Educativa, órgano de asesoría y consulta a las gestiones académica y administrativa del Colegio. Está integrado por: 1. La Rectoría, quien lo convoca y preside ordinariamente una vez por mes y extraordinariamente cuando lo considere necesario. 2. Dos representantes del personal docente, elegidos por ellos en una asamblea de docentes de acuerdo con la convocatoria hecha por la Rectoría. 3. Dos representantes de los padres de familia, designados por el consejo de Padres de Familia. 4. Un representante de los estudiantes, elegido por el Consejo estudiantil entre los estudiantes que se encuentran cursando el último grado de educación ofrecido por la institución. 5. Un representante de los exalumnos elegido por el Consejo Directivo. 6. Un representante de los sectores productivos del área de influencia local, escogido por el Consejo Directivo. Parágrafo único: El Gimnasio Obregón es consciente de que el ex alumno que hace parte del Consejo Directivo es un estudiante que tiene que atender en primera instancia sus obligaciones escolares por encontrarse en la mayoría de los casos estudiando en otra institución. Por tanto, su asistencia a las reuniones celebradas por el Consejo Directivo no es obligatoria ni determinante para tomar decisiones. Artículo 31. FUNCIONES DEL CONSEJO DIRECTIVO 1. Adoptar el Proyecto Educativo Institucional y las modificaciones presentadas por el Rector en representación del Consejo Académico. 2. Adoptar y aprobar el Manual de Convivencia Escolar o reglamento de la institución de conformidad con las normas vigentes y sus reformas. 3. Aprobar el plan anual de actualización del personal de la institución presentado por Rectoría. 4. Participar en la planeación y evaluación del proyecto Educativo Institucional, del currículo y del Plan de estudios y someterlos a la Secretaría de Educación respectiva o del organismo que haga sus veces para que verifique el cumplimiento de los requisitos. 5. Aprobar el proyecto de costos educativos y otros cobros presentado por el Rector de la institución para luego presentarlo a la Secretaría de Educación Local para su adopción. 6. Tomar las decisiones que afecten el funcionamiento de la institución y que no sean competencia de otra autoridad. 7. Aprobar el material educativo que se solicita a los estudiantes para el óptimo desarrollo de las clases y del aprendizaje, tales como: guías académicas, útiles escolares, textos escolares, uniformes, para el siguiente año escolar. 8. Estimular y controlar el buen funcionamiento de la institución educativa. 9. Asumir la defensa y garantía de los derechos de toda la comunidad educativa, cuando alguno de sus miembros se sienta lesionado. 10. Servir de instancia para resolver los conflictos que se presenten entre los docentes y administrativos con estudiantes. 11. Fijar los criterios para la asignación de cupos disponibles. 12. Establecer estímulos y sanciones para el buen desempeño académico y social. 13. Recordar criterios de participación de la institución en actividades comunitarias, culturales, deportivas y recreativas. 14. Promover las relaciones de tipo académico, deportivo y cultural con otras instituciones educativas. 15. Darse su propio reglamento. Artículo 32. EL CONSEJO ACADÉMICO GIMNASIO OBREGÓN 2026 Manual de Convivencia Escolar Página 32 El Consejo Académico apoya a la rectoría en todo lo relacionado con la organización y gestión académica: currículo, enfoque y modelo pedagógico, perfiles de los estudiantes, objetivos de formación, planes de estudio, metodología, didáctica, ambientes de aprendizaje, actividades de aula y extra-aula, proyectos pedagógicos de aula, ejes transversales del currículo, evaluación institucional de docentes y del aprendizaje, recursos y ayudas educativas, elaboración y revisión de exámenes y el proceso de admisiones entre otras. El Consejo Académico en el Gimnasio Obregón, convocado y presidido por la rectoría, estará integrado por los directivos docentes y un docente por cada área o grado que ofrezca la Institución. Artículo 33. FUNCIONES DEL CONSEJO ACADÉMICO 1. Participar en el estudio, evaluación, modificación y ajustes al currículo, plan de estudios y el servicio educativo en general, de conformidad con lo establecido en la Ley 115 y teniendo en cuenta los lineamientos del Ministerio de Educación Nacional y propiciar su continuo mejoramiento, introduciendo las modificaciones de acuerdo con las necesidades y el procedimiento previsto en el Decreto 1290 de 2009. 2. Participar en la organización del Plan de estudios y orientar su ejecución. 3. Integrar y organizar la Comisión de Evaluación y Promoción para la evaluación periódica del rendimiento de los estudiantes y su promoción. 4. Supervisar el proceso general de la Evaluación. 5. Liderar, orientar y participar en la evaluación institucional anual utilizando instrumentos que puedan determinar niveles de mejoramiento continuo. 6. Participar en todas las funciones que atañen a la buena marcha de la institución educativa. 7. Participar en la toma de decisiones frente a situaciones de bajo rendimiento académico y reinicio de grado escolar. 8. Darse su propia organización interna. 9. Las demás funciones afines o complementarias que le atribuye el PEI. Artículo 34. EL CONSEJO ESTUDIANTIL Es el máximo órgano de participación de los estudiantes, asegura y garantiza el continuo ejercicio de la democracia entre los educandos. El Consejo Estudiantil estará integrado por un vocero de cada uno de los grados que ofrezca el Colegio a partir del tercer grado. El rector convocará reuniones por cursos, en fecha establecida durante las primeras cuatro semanas del calendario académico, con el fin de que elijan a sus representantes. Artículo 35. FUNCIONES DEL CONSEJO ESTUDIANTIL 1. Darse su propia organización interna. 2. Elegir el representante (debe ser un estudiante de Grado Once, diferente al Personero Escolar) de los estudiantes ante el Consejo Directivo y asesorarlo en el cumplimiento de su representación. 3. Invitar a sus reuniones a aquellos estudiantes que presenten iniciativas sobre el desarrollo de la vida estudiantil. 4. Participar de la revisión y ajustes del Manual de Convivencia. 5. Participar de la evaluación institucional anual. 6. Proponer al Rector proyectos pedagógicos y comunitarios que redunden en el bienestar de todos los estudiantes. 7. Decidir su propio reglamento disponiendo: periodicidad de las reuniones, convocatorias, sitios de reunión y mecanismos de divulgación de sus decisiones y proyectos. 8. Las demás actividades afines o complementarias contenidas en este Manual. Artículo 36. EL PERSONERO ESTUDIANTIL Como personero estudiantil se debe desempeñar un estudiante del último grado ofrecido por la institución, elegido democráticamente mediante voto popular, libre y secreto, encargado de promover y velar por el cumplimiento de los derechos y deberes de los estudiantes consagrados en el Manual de Convivencia. Para ser admitido como candidato deberá presentar en rectoría un programa viable, una vez discutido y aceptado deberá inscribirse con los profesores del área de sociales. Son responsabilidades del Personero Estudiantil: 1. Velar por el cumplimiento de los deberes y derechos de los estudiantes, de acuerdo con el presente Manual de Convivencia Escolar, el Código de Infancia y Adolescencia, la Constitución Política de Colombia y las jurisprudencias de la Corte Constitucional. 2. Recibir las reclamaciones formales que presentan los estudiantes. 3. Presentar ante el Rector las solicitudes, reclamos y sugerencias de los estudiantes, que contribuyan a proteger sus derechos y a facilitar el cumplimiento de sus deberes consagrados en el presente Manual de Convivencia. 4. Mediar en situaciones problemáticas de convivencia entre estudiantes, docentes y padres, cuando se le solicite, o cuando el Personero lo estime conveniente para proteger los derechos de los estudiantes. GIMNASIO OBREGÓN 2026 Manual de Convivencia Escolar Página 33 Artículo 37. FUNCIONES DEL PERSONERO ESTUDIANTIL. 1. Organizar un grupo de trabajo con los representantes del Consejo Estudiantil. 2. Establecer un reglamento interno de funciones y de proyectos a seguir, teniendo en cuenta lo establecido en el Art. 94 de la ley 115/94 y el Art. 28 del decreto 1860/94. 3. Actuar de acuerdo con la filosofía institucional descrita en el PEI, el Manual de Convivencia, las normas del Ministerio Público y la Constitución Política Nacional. 4. Mantener diálogo constante con el Consejo Estudiantil y con los docentes, para proyectar su trabajo hacia el logro de estrategias de bienestar dentro y fuera de la institución. 5. Presentar y tramitar ante la Rectoría y demás directivas de la institución, las peticiones correspondientes a los derechos y/o bienestar de los estudiantes. 6. Apelar en caso de irregularidades que afecten los derechos y/o bienestar de los estudiantes. 7. Acompañar a los estudiantes que tienen dificultades o problemas en el momento de dar las explicaciones de sus actos. 8. Velar por el cumplimiento de las normas del Manual de Convivencia, por parte de los estudiantes. 9. Representar dignamente a la institución en los encuentros de personeros. Artículo 38. PERFIL DE LOS ESTUDIANTES QUE ASPIRAN AL CARGO DE REPRESENTANTES, CABILDANTE Y PERSONERO ESTUDIANTILES. 1. Demostrar una antigüedad en el plantel no menor de dos años. 2. Haber observado un comportamiento acorde con la filosofía institucional y un rendimiento académico satisfactorio durante la permanencia en la institución. 3. Tener buen conocimiento de los derechos y deberes de los estudiantes, establecidos en el Manual de Convivencia Escolar. 4. Presentar un programa de campaña y de gobierno ante el comité electoral y cumplirlo con un seguimiento continuo por parte de las directivas teniendo en cuenta la sana convivencia y el normal desarrollo académico, basado en el Manual de Convivencia. 5. El Acompañamiento Estudiantil del estudiante que aspira al cargo de representante, cabildante estudiantil, personero/a y formula debe gozar de un seguimiento académico, disciplinar y convivencial valorado en desempeño alto - superior, reflejándose la apropiación y vivencia de la filosofía institucional y las normas establecidas en el Manual de Convivencia. Por lo anterior, es causal de inhabilidad para ejercer el cargo, la existencia de procesos disciplinarios como llamados de atención, sanciones, compromisos, actas de compromiso convivencial o matriculas condicionales en especial en los años correspondientes a la educación media. Artículo 39. EL CABILDANTE ESTUDIANTIL. Creado mediante el acuerdo 597 de 2015, “Por el cual se establece el Día del Cabildante Estudiantil, se crea la Mesa Distrital de Cabildante Estudiantil y se dictan otras disposiciones”. “El Cabildante Estudiantil, como líder social en los espacios de participación y control, vigila y da a conocer las problemáticas de las localidades de manera pedagógica y democrática. La figura de Cabildante Estudiantil fortalece el espacio de participación de los jóvenes en el Distrito y en sus localidades.” Podrán ser elegidos para el cargo de Cabildante Estudiantil, estudiantes entre los grados Sexto de Educación Básica a Décimo de Educación Media. Artículo 40. FUNCIONES DEL CABILDANTE ESTUDIANTIL. Los Cabildantes Estudiantiles deben tener conocimiento de su localidad, ser personas responsables, honestas, con compromiso, sentido de pertenencia y ser un estudiante crítico y constructivo. Además, deben: 1. Elaborar una propuesta de trabajo donde se identifiquen las problemáticas de la localidad y sus posibles soluciones. 2. Conocer el funcionamiento, gestiones y procesos que adelantan los Cabildantes Estudiantiles y demás instancias del Sistema Distrital de Participación. 3. Asumir un liderazgo social e incidir en espacios de participación, control y vigilancia en sus localidades sobre temas de interés. NOTA: Es causal de perdida de cargo en el Consejo de estudiantes, Cabildante, Personero/a, formula de personería desconocer las normas establecidas en el Manual de Convivencia y/o participar en acciones que atenten contra los principios y valores institucionales contemplados en el manual de convivencia. Artículo 41. COMITÉ ESCOLAR DE CONVIVENCIA El Comité Escolar de Convivencia, es el encargado de apoyar la labor de promoción y seguimiento a la convivencia escolar, a la educación para el ejercicio de la ciudadanía, la convivencia y el ejercicio de los derechos humanos, sexuales y reproductivos, así como del desarrollo y aplicación del Manual de Convivencia y de la prevención y mitigación de la violencia escolar.
+El Comité Escolar de Convivencia estará conformado por:
+• El Rector del establecimiento educativo, quien preside el comité
+• El Personero estudiantil
+• El Orientador Escolar
+• El coordinador de Convivencia
+• El presidente del Consejo de Padres de familia
+• El presidente del Consejo de estudiantes
+• Un (1) docente que lidere procesos o estrategias de Convivencia
+PARÁGRAFO: El comité podrá invitar con voz, pero sin voto a un miembro de la comunidad educativa conocedor de
+los hechos, con el propósito de ampliar información.
+Artículo 42. FUNCIONES DEL COMITÉ ESCOLAR DE CONVIVENCIA
+Son funciones del Comité:
+1. Realizar la caracterización de la convivencia escolar con base en la filosofía institucional y la naturaleza de los casos que generaron
+activación de los protocolos de atención del año inmediatamente anterior.
+2. Diseñar e implementar las acciones de Promoción, Prevención, Atención y Seguimiento de las situaciones que afectan la convivencia
+escolar en el marco de las disposiciones de la Ley 1620 y Decreto reglamentario 1965 de 2013 para liderar acciones que fomenten la
+convivencia, la construcción y el ejercicio de la ciudadanía y el ejercicio de los derechos humanos, sexuales y reproductivos, así como
+la prevención y mitigación de la violencia escolar.
+3. Conocer sobre la activación de protocolos, sugerir estrategias de intervención y realizar seguimiento a las situaciones
+convivenciales tipo II y III.
+4. Vincular a las diferentes instituciones de los sectores de salud, protección y justicia para desarrollar programas de intervención que
+fomenten la construcción y el ejercicio de la ciudadanía y el ejercicio de los derechos humanos, sexuales y reproductivos, así como la
+prevención y mitigación de la violencia escolar.
+5. Hacer seguimiento al cumplimiento de las disposiciones establecidas en el Manual de Convivencia, y presentar informes a la respectiva
+instancia que hace parte de la estructura del Sistema Nacional De Convivencia Escolar y Formación para los Derechos Humanos, la
+Educación para la Sexualidad y la Prevención y Mitigación de la Violencia Escolar, de los casos o situaciones que haya conocido el
+comité.
+6. Liderar la revisión y ajuste del Manual de Convivencia Escolar.
+7. Sugerir a la Coordinación de Convivencia o a Rectoría acciones formativas y correctivas cuando las faltas así lo ameriten.
+Artículo 43. REGLAMENTO DEL COMITÉ ESCOLAR DE CONVIVENCIA
+1. El Rector será el presidente del Comité Escolar de Convivencia. En ausencia del Rector, presidirá el docente que lidera
+procesos o estrategias de convivencia y que hace parte del respectivo comité.
+2. De no contar con los integrantes para conformar el Comité Escolar de Convivencia, éste será integrado como mínimo
+por el representante de los docentes, el presidente del Consejo de Padres de familia y el representante de los
+estudiantes. En este caso, el docente será quien presida el comité.
+3. De renunciar algún miembro del Comité Escolar de Convivencia; con relación a los docentes, será el nuevo docente la
+persona que ocupará el cargo y asumirá el rol del docente que estaba en el comité, con relación al padre de familia se
+delegará nuevamente con el Consejo de Padres, y con relación a los estudiantes lo asumirá el estudiante que quedo de
+segundo en la votación de Personero y Consejo de Estudiantes.
+4. El Comité Escolar de Convivencia sesionará como mínimo una vez cada dos (2) meses.
+5. Las sesiones extraordinarias serán convocadas por el presidente del Comité Escolar de Convivencia, cuando las
+circunstancias lo exijan o por solicitud de cualquiera de los integrantes del mismo.
+6. La toma decisiones será con el Comité Escolar de Convivencia reunido en pleno o la mitad más uno, quienes tienen voz
+y voto y no podrá sesionar sin la presencia del presidente (Rector).
+7. Quórum para sesionar: El Comité Escolar de Convivencia podrá sesionar con la asistencia de la mitad más uno de sus
+miembros.
+8. De todas las sesiones que adelante el Comité Escolar de Convivencia se deberá elaborar un acta.
+9. El Comité Escolar de Convivencia deberá garantizar el derecho a la intimidad y a la confidencialidad de los datos
+personales que sean tratados en el marco de las actuaciones que éste adelante, conforme a lo dispuesto en la
+Constitución Política, los tratados internacionales, en la Ley 1098 de 2006, en la Ley estatutaria 1581 de 2012, en el
+Decreto 1377 de 2013 y demás normas aplicables a la materia.
+Artículo 44. COMISIONES DE EVALUACIÓN Y PROMOCIÓN
+El Consejo Académico conformará, para los diferentes grados, una Comisión de evaluación y promoción integrada por
+los docentes que orientan clase en estos grados, un representante de los padres de familia que no sea docente de la
+institución, el Rector o su delegado quien la convocará y la presidirá, Coordinaciones y apoyo terapéutico, con el fin de
+evaluar periódicamente los desempeños y hacer recomendaciones de actividades de refuerzo y superación para los
+GIMNASIO OBREGÓN 2026
+Manual de Convivencia Escolar Página 35
+estudiantes que presenten dificultades, de tal modo que al finalizar el año escolar se pueda definir su promoción.
+Artículo 45. FUNCIONES DE LA COMISIÓN DE EVALUACIÓN Y PROMOCIÓN.
+1. Realizar la evaluación de cada periodo académico de acuerdo con el desempeño de cada estudiante.
+2. Analizar los casos de los estudiantes que al finalizar cada período escolar presentan un bajo rendimiento
+académico en cualquiera de las áreas.
+3. Hacer recomendaciones de actividades de refuerzo y superación para estudiantes que presenten dificultades e
+informar a los padres de familia de los mismos.
+4. Establecer si docentes y estudiantes siguieron las recomendaciones y cumplieron los compromisos de los
+periodos anteriores.
+5. Consignar en actas, las observaciones y recomendaciones de la comisión, que se constituirán como evidencia
+para posteriores decisiones acerca de la promoción de los estudiantes.
+6. Remitir a Orientación Escolar, Fonoaudiología, Coordinaciones o Rectoría el caso de los estudiantes que
+presenten dificultades académicas y/o convivenciales de ser necesario.
+7. Definir la promoción o reprobación de los estudiantes al finalizar el año escolar.
+Artículo 46. VICERRECTORÍA:
+Encargada/o en dar cumplimiento a las directrices institucionales (Misión, Visión, Políticas y Objetivos de calidad), velar
+por el bienestar del estudiante dentro de la institución, custodiar la documentación y registros utilizados. Mantener un
+ambiente armónico entre los administrativos, directivos, docentes, estudiantes y padres de familia. Es la representación
+del colegio ante las autoridades que lo requieran y liderar las innovaciones del P.E.I. y garantizar su desarrollo, es deber
+garantizar por el cumplimiento de los derechos y deberes de la comunidad educativa. Es jefe directo las coordinaciones
+de preescolar, administrativa, académica, convivencial y bienestar escolar.
+Artículo 47. COORDINACIONES:
+Para los aspectos de organización general y bienestar de la institución, procesos académicos y convivenciales el colegio
+ha establecido las siguientes Coordinaciones:
+Artículo 48. COORDINACIÓN ADMINISTRATIVA:
+Encargada de implementar el Proyecto Educativo Institucional a través de una planeación estratégica orientada a
+alcanzar las metas propuestas para el año en curso en relación con; la organización de las gestiones académica,
+convivencial, y de recurso humano que contribuya al crecimiento y fortalecimiento de la comunidad educativa. Es el jefe
+directo personal Administrativo y de Servicios.
+Artículo 49. COORDINACIÓN DE PREESCOLAR:
+Encargada de implementar el Proyecto Educativo Institucional, realizar los procesos académicos y de convivencia,
+atiende a padres de familia y estudiantes de la sección de Preescolar y Primeros, y es el jefe directo de los docentes
+bajo su responsabilidad, docentes de las secciones de preescolar y primaria.
+Artículo 50. COORDINACIÓN ACADÉMICA:
+Encargada de implementar el Proyecto Educativo Institucional, organizar y asesorar los procesos académicos, atiende
+a padres de familia y estudiantes desde el grado segundo de primaria hasta el grado Undécimo de Educación Media.
+Es el jefe directo de los docentes bajo su responsabilidad, docentes de primaria y bachillerato.
+Artículo 51. COORDINACIÓN DE CONVIVENCIA:
+Encargada de implementar el Proyecto Educativo Institucional, organizar y asesorar los procesos de convivencia y
+promueve la solución de conflictos, es el jefe directo de los docentes bajo su responsabilidad, atiende a padres de familia
+y estudiantes desde el grado Primero de Primaria al grado Undécimo de Educación Media.
+Artículo 52. LIDER DUAL DIPLOMA Y DEPARTAMENTO DE INGLÉS:
+Responsable de liderar la implementación y articulación del Proyecto Educativo Institucional en el área de inglés y Dual
+Diploma (doble titulación), así como de planear, organizar y asesorar los procesos académicos correspondientes al
+GIMNASIO OBREGÓN 2026
+Manual de Convivencia Escolar Página 36
+programa. Ejerce el rol directo de líder de Dual diploma perteneciendo al área de inglés y brinda acompañamiento
+académico a estudiantes y atención a padres de familia desde grado octavo hasta grado undécimo.
+Artículo 53. DIRECTORES DE GRUPO.
+Son considerados los orientadores más cercanos a los estudiantes, acompañan el proceso de los grupos, lideran
+actividades del curso, son encargados de elaborar informes para las comisiones y los comités, presentan informes a los
+padres de familia y están al tanto de los reportes sobre el desempeño, rendimiento académico y comportamental, de los
+estudiantes, así como también de los procesos aplicados a ellos, colaboran con el control de pago de pensiones
+recaudando los cupones de pago.
+Artículo 54. FUNCIONES DEL DIRECTOR DE GRUPO.
+Algunas de las funciones del director de Grupo son:
+1. Tener conocimiento permanente y completo del proceso académico y de convivencia de cada uno de los
+estudiantes de su grupo.
+2. Orientar su grupo en formaciones, actividades culturales y deportivas, salidas pedagógicas.
+3. Acompañar, motivar y orientar constantemente a su grupo en la realización de actividades culturales,
+artísticas, deportivas, proyectos de aula, proyecto FE, Feria tecnológica y otros que el colegio programe,
+buscando siempre la excelencia y espíritu sano de competitividad.
+4. Programar acciones individuales y/o grupales que motiven a los estudiantes y los lleve a cumplir con todas
+las metas académicas y de convivencia institucionales.
+5. Orientar a los estudiantes a su cargo para que se ajusten al perfil del Estudiante Obregón.
+6. Asesorar a los estudiantes de su grupo durante las jornadas de refuerzo y/o nivelación y hacer seguimiento a
+los logros alcanzados o dificultades persistentes en sus estudiantes.
+7. Promover la integración de los padres de familia de los estudiantes a su cargo con la Comunidad Educativa
+en general y buscar su participación activa en las actividades programadas por la institución, así como su
+participación en las Escuelas de Padres y Madres de familia
+8. Contribuir y apoyar en la implementación de estrategias pedagógicas que contribuyan al mejoramiento de la
+calidad y excelencia académica y de convivencia por la que se caracteriza el Gimnasio Obregón.
+9. Acompañar y cooperar con el equipo docente de su curso para la realización del seguimiento individual y
+grupal de los estudiantes.
+10. Realizar diagnóstico individual a cada uno de los estudiantes de su grupo teniendo en cuenta aspectos
+importantes de su vida familiar, cognoscitiva u otros que puedan afectar de manera positiva o negativa su
+proceso académico.
+11. Recoger información pertinente respecto a los procesos académicos y de convivencia de manera individual a
+fin de fijar las estrategias pedagógicas pertinentes para la superación de las dificultades evidenciadas.
+12. Liderar Proyecto Empresarial (Proyecto FE) y participación en la organización de la feria de la Ciencia y la
+Tecnología.
+13. Elaborar el Formato de Acompañamiento estudiantil y con ayuda de los padres de familia diligenciar la ficha
+de seguimiento individual para recoger información importante acerca de cada uno de los estudiantes de su
+grupo.
+14. Mantener actualizado el Formato de acompañamiento estudiantil, incluyendo los acompañamientos
+académicos o convivenciales en los casos que se requiera, llevando control de los mismos de manera
+permanente.
+15. Informar a los padres de familia acerca de las fortalezas y/o dificultades de su acudido en entrega de informes,
+cortes de semáforo y /o a necesidad, así mismo sobre las actividades institucionales, planes de refuerzo, etc.
+16. Revisar diariamente la agenda de los estudiantes al inicio y al final de la jornada escolar a fin de verificar que
+han dejado consignadas las tareas y/o actividades a realizar por ellos en casa. La agenda escolar es un
+importante medio de
+17. comunicación entre los padres de familia y el colegio, y el director de grupo debe realizar un adecuado
+seguimiento a través de este mecanismo.
+18. Orientar con los estudiantes a su cargo la puesta en marcha de las actividades programadas a nivel
+institucional para los Proyectos Transversales tales como: medio ambiente, proyecto de prevención y atención
+de emergencias, entre otros.
+19. Coordinar e implementar junto con el equipo docente, actividades para el mejoramiento de las dificultades
+evidenciadas en su grupo ya sea de manera individual o grupal según lo requiera.
+20. Llamar a lista diariamente, llevando registro riguroso de ausencias y retardos e informando oportunamente a
+Coordinación de Convivencia cuando haya casos especiales que requieran intervención inmediata.
+21. Registrar diariamente en lugar visible, el número de estudiantes que se encuentran en el aula, como apoyo al
+Proyecto de Prevención de Emergencias.
+22. Procurar por el orden, aseo y mantenimiento adecuado del aula de clase del grupo a su cargo, designando
+para ello grupos ecológicos que le colaboren en este sentido.
+23. Revisar y hacer seguimiento a la presentación personal de los estudiantes de su grupo.
+24. Informar a los padres de familia, oportunamente, cuando existan dificultades ya sea de comportamiento o
+académicas que requieran intervención y apoyo del grupo familiar.
+25. Acompañar a los estudiantes de su grupo durante el descanso ya sea en las áreas destinadas para tal fin
+dentro del colegio y/o en la cancha del colegio, vigilando y supervisándolos para evitar accidentes o
+inconvenientes.
+26. Avisar oportunamente a Coordinación de Convivencia y enfermería cuando un estudiante de su grupo se
+encuentra indispuesto y no puede continuar su jornada académica para avisar a los padres de familia.
+27. Llevar control de los estudiantes que cada mes son reconocidos en las izadas de bandera.
+28. Ser el líder inicial de cualquier proceso Convivencial y/o Académico y ofrecer alternativas de solución o
+intervención. En caso que no pueda resolverlo lo informará a su superior inmediato.
+29. Es responsable de los elementos, recursos y salón asignados por inventario para el desarrollo de sus labores.
+30.
+Artículo 55. PERSONAL DE OFICINAS Y DE SERVICIOS GENERALES.
+Son las personas nombradas por la institución para el desarrollo de funciones específicas en un área o servicio, siendo
+el(la) responsable inmediato(a) de ellas, con el fin de que el colegio funcione en un buen engranaje y se le preste un
+excelente servicio al cliente.
+Parágrafo 1: El personal de oficinas sirve como apoyo al área administrativa del colegio y cumple con el servicio de
+atención al público. Dependen directamente de Coordinación General.
+Parágrafo 2: El personal de servicios generales apoya a la administración del colegio con todo lo referente a aseo,
+conservación, cuidado, traslado, embellecimiento, decoración y logísticas del día a día.
+TITULO IV. - DERECHOS, DEBERES Y RESPONSABILIDADES DE TODOS LOS MIEMBROS DE LA
+COMUNIDAD EDUCATIVA DEL GIMNASIO OBREGÓN
+Todo ser humano como persona lleva consigo derechos que le deben ser reconocidos, y deberes que le corresponde
+cumplir con la finalidad de facilitar el desarrollo integral de la persona y la convivencia social; el ejercicio de los derechos
+y deberes que promueven la dignidad de la persona y el reconocimiento de la libertad de los demás, genera el
+compromiso tanto de respetar el derecho ajeno como el de responder a las consecuencias de sus actos. Así, la
+educación concebida como un derecho – deber, implica una serie de obligaciones y derechos de todos y cada uno de
+los miembros de la Comunidad Educativa que exige comprender que todos, (Familia – Estudiante – Colegio) somos
+corresponsables del proceso de formación.
+CAPITULO I. DERECHOS, DEBERES Y PROHIBICIONES DE TODOS LOS MIEMBROS DE LA COMUNIDAD
+EDUCATIVA
+Artículo 56 DERECHOS Y DEBERES DE TODOS LOS MIEMBROS DE LA COMUNIDAD EDUCATIVA DEL
+GIMNASIO OBREGÓN
+A continuación te presento la transcripción detallada y organizada en ítems de la tabla del **Artículo 56: Derechos y Deberes de todos los miembros de la comunidad educativa del Gimnasio Obregón**, correspondiente a las dos páginas proporcionadas:
+
+* **Ítem 1:**
+* **Derechos:** Conocer y gozar de todos los derechos, principios y límites consagrados en la Constitución Política de Colombia.
+
+
+* **Deberes:** Conocer y acatar la normativa consagrada en la Constitución Política de Colombia mostrando respeto por las normas, los límites y las instituciones.
+
+
+
+
+* **Ítem 2:**
+* **Derechos:** Al buen nombre y a ser respetado/a en la integridad personal, sexual, moral y física.
+
+
+* **Deberes:**
+* Respetar el buen nombre y reputación de todos los miembros de la comunidad educativa.
+
+
+* Cuidar en primera persona la imagen, la reputación, las formas de interacción social, el lenguaje evitando así el detrimento de la propia imagen.
+
+
+* Cuidar del cuerpo y la salud en todo momento evitando exponerse y/o exponer a otros a situaciones que generen daño.
+
+
+* Tratar con respeto y tolerancia por la diferencia en todas las formas de interacción social a todos los miembros de la comunidad educativa, vivenciando así la filosofía institucional del Gimnasio Obregón.
+
+
+* Evitar escándalos públicos que afecten el buen nombre de la institución.
+
+
+
+
+
+
+* **Ítem 3:**
+* **Derechos:** A ser tratado/a con respeto y tolerancia por la diferencia en todas las formas de interacción social.
+
+
+* **Deberes:**
+* Tratar con respeto y tolerancia por la diferencia en todas las formas de interacción social a todos los miembros de la comunidad educativa, vivenciando así la filosofía institucional del Gimnasio Obregón.
+
+
+* Evitar escándalos públicos que afecten el buen nombre de la institución.
+
+
+
+
+
+
+* **Ítem 4:**
+* **Derechos:** A ser tratado/a de manera justa y en igualdad de condiciones como miembro de la comunidad educativa del Gimnasio Obregón.
+
+
+* **Deberes:** Tratar de manera justa y en igualdad de condiciones a todos los miembros de la comunidad educativa del Gimnasio Obregón.
+
+
+
+
+* **Ítem 5:**
+* **Derechos:** Recibir el servicio educativo y atención con alta calidad y de manera fraterna, a la luz de los parámetros dispuestos por la norma nacional y la filosofía del Gimnasio Obregón.
+
+
+* **Deberes:** Acoger y apropiar de manera constructiva el servicio educativo y atención brindada para el beneficio propio a la luz de los parámetros dispuestos por la norma nacional y la filosofía del Gimnasio Obregón.
+
+
+
+
+* **Ítem 6:**
+* **Derechos:** Conocer los horarios institucionales de cada miembro de la comunidad educativa.
+
+
+* **Deberes:** Dar cumplimiento a los horarios de inicio y fin de jornada.
+
+
+
+
+* **Ítem 7:**
+* **Derechos:** Recibir oportunamente información institucional, el manual de convivencia, el cronograma anual, circulares informativas, orientaciones, reportes académicos, convivenciales, administrativos, de bienestar escolar y clases de manera responsable, honesta, oportuna y con una adecuada preparación de tipo académico. Los canales de comunicación institucional son: Agenda escolar, Correo institucional, Página web, Plataforma Classroom, Plataforma Teams.
+
+
+* **Deberes:**
+* Recibir información institucional, vivenciar el manual de convivencia, cumplir el cronograma anual, leer circulares informativas, recibir orientaciones para el beneficio propio, recibir reportes académicos, convivenciales, administrativos, de bienestar escolar y clases de manera responsable y activa, entendiendo que todos los miembros de la comunidad educativa somos corresponsables del proceso de formación que ofrece el Gimnasio Obregón.
+
+
+* Usar los canales de comunicación institucional: Agenda escolar diariamente, Correo institucional, Página web, Plataforma Classroom, Plataforma Teams a necesidad.
+
+
+* Escuchar y apropiar las recomendaciones para el beneficio de los miembros de la comunidad educativa en el ámbito administrativo, académico, convivencial y de bienestar escolar.
+
+
+* Comunicar a las directivas o docentes dificultades académicas y/o convivenciales que se presenten y asistir a las citaciones cuando sea requerido.
+
+
+
+
+
+
+* **Ítem 8:**
+* **Derechos:** Recibir acompañamiento y atención oportuna en momentos de dificultad administrativa, académica, convivencial y/o de bienestar escolar.
+
+
+* **Deberes:** *(Asignado en conjunto con el bloque anterior)*
+
+
+* **Ítem 9:**
+* **Derechos:** Expresar libremente las opiniones, sugerencias, quejas, recomendaciones bajo el principio del respeto y la tolerancia.
+
+
+* **Deberes:**
+* Escuchar atentamente las opiniones, sugerencias, recomendaciones bajo el principio del respeto en todos los ambientes institucionales, especialmente en los ámbitos académico y convivencial.
+
+
+* Expresar la verdad de los hechos de que tenga conocimiento directo.
+
+
+* Informar sobre situaciones que vayan en detrimento de la institución o de un miembro de la comunidad educativa.
+
+
+
+
+
+
+* **Ítem 10:**
+* **Derechos:** Conocer la estructura orgánica de la Institución y obrar de conformidad con los conductos regulares de comunicación.
+
+
+* **Deberes:** Utilizar y respetar el conducto regular en cualquier circunstancia de conformidad con la estructura orgánica del colegio para garantizar una atención oportuna y adecuada.
+
+
+
+
+* **Ítem 11:**
+* **Derechos:** Participar de manera activa en la planeación, evaluación, revisión y actualización del PEI y manual de convivencia de acuerdo a la organización interna del Gimnasio Obregón.
+
+
+* **Deberes:** Contribuir de manera activa en actividades de planeación, evaluación, revisión y actualización del PEI y manual de convivencia de acuerdo a la organización interna del Gimnasio Obregón.
+
+
+
+
+* **Ítem 12:**
+* **Derechos:** Gozar de espacios físicos adecuados y de los elementos necesarios para el desarrollo óptimo de actividades administrativas, académicas, convivenciales y de bienestar escolar.
+
+
+* **Deberes:**
+* Preservar, cuidar, mantener en buen estado los espacios físicos, mobiliarios, equipos, dotaciones, materiales para el óptimo desarrollo de actividades pedagógicas.
+
+
+* Conocer y asumir los reglamentos específicos de salones, laboratorio, sala de sistemas, sala Obregón, atelier, sala de lectura y zonas comunes del Gimnasio Obregón.
+
+
+* Todo daño por mal uso o pérdida deberá ser asumido económicamente por el responsable (padre del estudiante responsable, docente, directivo).
+
+
+
+
+
+
+* **Ítem 13:**
+* **Derechos:** Gozar de espacios de formación y/o capacitación integral (académica, socioemocional, convivencial, escuelas de padres y madres) que contribuyan al fortalecimiento de habilidades de todos los miembros de la comunidad educativa del Gimnasio Obregón.
+
+
+* **Deberes:** Recibir, participar de los espacios de formación y/o capacitación integral (académica, socioemocional, convivencial, escuelas de padres y madres) para contribuir al fortalecimiento de habilidades de todos los miembros de la comunidad educativa del Gimnasio Obregón.
+
+
+
+
+* **Ítem 14:**
+* **Derechos:** Estar afiliado a un sistema de salud y/o seguro de accidentes escolares.
+
+
+* **Deberes:** Mantener vigentes las afiliaciones al sistema de salud y/o de seguros de accidentes escolares.
+
+Arículo 57. PROHIBICIONES PARA TODOS LOS MIEMBROS DE LA COMUNIDAD EDUCATIVA
+1. Portar armas o sustancias o elementos que atenten contra la integridad propia y de los demás.
+2. Consumir, portar y/o distribuir cigarrillos, bebidas alcohólicas y sustancias psicoactivas, así como material pornográfico dentro y fuera de las
+instalaciones del colegio. Es causal de cancelación inmediata del contrato educativo o laboral y el hecho se hará conocer a las autoridades
+competentes.
+3.Realizar actividades comerciales, negocios, transacciones dentro del colegio con cualquier miembro de la comunidad educativa.
+GIMNASIO OBREGÓN 2026
+Manual de Convivencia Escolar Página 39
+4.Asistir a clases, jornada laboral, reuniones y/o citaciones embriagado o con muestras de alicoramiento o bajo el efecto de sustancias
+alucinógenas. No se le permitirá el acceso.
+5.Solicitar dinero prestado a cualquier miembro de la comunidad educativa.
+6.Expresarse con términos soeces y agresivos hacia cualquier miembro de la comunidad. Es causal de cancelación inmediata del
+contrato educativo o laboral.
+7.Fomentar escándalo público, participar en riñas, peleas o asistir a estas afectando así la buena imagen de la institución. Es causal de
+cancelación inmediata del contrato educativo o laboral.
+8.Utilizar el nombre del colegio para promover actividades sin previa autorización de los directivos de la institución.
+9.Utilizar la página web del Gimnasio Obregón y/o plataformas autorizadas para otras cosas que no tengan que ver con lo académico y/o
+toda sugerencia que sea desobligante para con cualquier miembro de la comunidad educativa dará para cancelación del contrato educativo
+o laboral.
+10.Hacer grabaciones de audio o video de cualquier miembro de la comunidad educativa sin la debida autorización.
+Artículo 58. PERFIL DEL ESTUDIANTE OBREGON
+Se adquiere el carácter de estudiante del GIMNASIO OBREGÓN en el momento de firmar la matrícula y el Contrato de
+Prestación de Servicios Educativos.
+El Gimnasio Obregón orienta su proceso de formación para que el/la estudiante desarrolle habilidades para la vida,
+vivenciando en su cotidianidad valores institucionales como el respeto por sí mismo y por los demás, la responsabilidad
+por su proceso de formación humana y académica, para que en tal sentido el desarrollo de su autoestima y autonomía
+se reflejen en su actuar para ser mejor cada día, y en una toma de decisiones consciente que contribuyan a su desarrollo
+socioemocional e intelectual.
+Los estudiantes del Gimnasio Obregón vivenciando los valores que le dan razón de ser en sus principios, deben ser personas:
+1. Respetuosos de sí mismos, de su cuerpo.
+2. Conscientes de los derechos y los deberes propios.
+3. Responsables del cuidado de sí mismo, de sus emociones, socialmente feliz y gestor de relaciones sociales
+basadas en el respeto.
+4. Reflexivos ante sus acciones, el impacto de las mismas frente a los demás y su entorno, con la capacidad
+para reconocer sus propios errores y plantearse un plan de mejoramiento.
+5. Autónomos, responsables y activos, que con sus actitudes y expresiones demuestren el desarrollo
+continuo de su autoestima.
+6. Personas que crecen con valores de fe y conocimiento de la importancia de comunicarse con Dios, su Creador.
+7. Orgullosos de la comunidad educativa a la que pertenecen.
+8. Conocedores del medio ambiente, del cuidado que deben tener por la naturaleza, que aprecian y
+practican diferentes manifestaciones artísticas, culturales y deportivas tanto dentro como fuera de la
+institución.
+9. Comprometidos con el uso responsable y positivo de las Tecnologías de la Información y la Comunicación
+(TICs), para el desarrollo de habilidades académicas.
+10. Con espíritu ético y competente, con actitudes científicas y creativas.
+11. Hábiles y con capacidad de entender y expresarse en una segunda lengua.
+Parágrafo único:
+Al no identificarse con el perfil del estudiante del gimnasio Obregón se generará la sugerencia de cambio de
+ambiente escolar, realizando de manera escrita el debido proceso al que todo estudiante tiene derecho.
+Artículo 59. OTROS DERECHOS Y DEBERES DE LOS ESTUDIANTES.
+Todos los miembros de la comunidad educativa adquieren unos derechos y tienen unos compromisos básicos (deberes)
+sobre los cuales se construye la vida comunitaria, esa relación entre derechos y deberes es fundamental para asegurar
+una convivencia fraterna.
+El anterior principio se sustenta en la Ley 1620 de 2013, en su Artículo 1: OBJETO: Contribuir a la formación de
+ciudadanos activos que aporten a la construcción de una sociedad democrática, participativa, pluralista en intercultural,
+en concordancia con el mandato constitucional y la Ley general de educación – Ley 115 de 1.994 – mediante la creación
+del sistema nacional de convivencia escolar y formación para los derechos humanos, la educación para la sexualidad y
+la prevención y mitigación de la violencia escolar, que promueva y fortalezca la formación ciudadana y el ejercicio de
+los derechos humanos, sexuales y reproductivos de los estudiantes de los niveles de preescolar, básica y media y
+GIMNASIO OBREGÓN 2026
+Manual de Convivencia Escolar Página 40
+mitigue la violencia escolar y el embarazo en la adolescencia.
+Por lo anterior, es importante que el estudiante del Gimnasio Obregón, vele por el cumplimiento de los siguientes derechos y deberes:
+A continuación te presento transcrita en ítems claros la información de la tabla del **Artículo 59: Otros derechos y deberes de los estudiantes** que aparece en la imagen:
+
+* **Ítem 1:**
+* **Derechos:**
+* Iniciar la jornada escolar con puntualidad.
+
+
+* Tabla de horarios de ingreso y finalización de jornada:
+
+
+* **Prekínder:** Ingreso 7:30 a.m. / Finalización 2:00 p.m.
+
+
+* **Preescolar:** Ingreso 6:30 a.m. / Finalización 2:00 p.m.
+
+
+* **Primaria:** Ingreso 6:30 a.m. / Finalización 2:10 p.m.
+
+
+* **Bachillerato:** Ingreso 6:30 a.m. / Finalización 2:10 p.m.
+
+
+
+
+
+
+* **Deberes:** Hacer ingreso a la institución con puntualidad.
+
+
+
+
+* **Ítem 2:**
+* **Derechos:**
+* Gozar de los tres uniformes institucionales (Gala - Diario - Sudadera) completos.
+
+
+* Conocer las normas relacionadas con la presentación personal.
+
+
+
+
+* **Deberes:**
+* Portar los uniformes institucionales (Gala, Diario, Sudadera) con decoro y pulcritud sin generar modificaciones en las prendas.
+
+
+* Hacer uso de ellos según los horarios dispuestos por el colegio.
+
+
+* Cumplir con las normas relacionadas con la presentación personal.
+
+
+
+
+
+
+* **Ítem 3:**
+* **Derechos:** Recibir la agenda y carné institucional.
+
+
+* **Deberes:**
+* Cuidar la agenda y no dañar/rayar la cubierta.
+
+
+* Portarla y diligenciarla todos los días, hacerla firmar de los padres.
+
+
+* Cuidar el carné estudiantil.
+
+
+
+
+
+
+* **Ítem 4:**
+* **Derechos:** Participar en espacios de promoción y prevención de: riesgos en el uso de sustancias psicoactivas, tiempo libre, prevención vial, prevención de desastres, educación ambiental, formación en paz y democracia.
+
+
+* **Deberes:** Asistir a los espacios de promoción y prevención de: riesgos en el uso de sustancias psicoactivas, tiempo libre, prevención vial, prevención de desastres, educación ambiental, formación en paz y democracia.
+
+
+
+
+* **Ítem 5:**
+* **Derechos:** Recibir reconocimientos y distinciones por esfuerzo y logros académicos, convivenciales, deportivos y culturales.
+
+
+* **Deberes:** Esforzarse a nivel académico y convivencial con el fin de alcanzar reconocimientos y distinciones.
+
+
+
+
+* **Ítem 6:**
+* **Derechos:** Contar con un proceso educativo-académico tendiente a lograr su formación integral; en este sentido, todas las acciones y actividades del Currículo buscan desarrollar los procesos a nivel integral.
+
+
+* **Deberes:** Identificarse con los procesos educativos tendientes a lograr formación integral.
+
+
+
+
+* **Ítem 7:**
+* **Derechos:** Tener una educación de alta calidad, con profesores con formación idónea, tanto en lo profesional como en lo personal.
+
+
+* **Deberes:** Recibir los procesos educativos y las orientaciones de los docentes para el desarrollo integral.
+
+
+
+
+* **Ítem 8:**
+* **Derechos:** Conocer la programación académica de cada área, la cual deberá ser explicada por los profesores al inicio del año escolar.
+
+
+* **Deberes:** Recibir la programación académica de cada área, la cual deberá ser explicada por los profesores al inicio del año escolar.
+
+
+
+
+* **Ítem 9:**
+* **Derechos:** Conocer las pautas del trabajo académico, así como los criterios de evaluación.
+
+
+* **Deberes:** Recibir, apropiar y respetar las pautas del trabajo académico, así como los criterios de evaluación.
+
+
+
+
+* **Ítem 10:**
+* **Derechos:** Recibir retroalimentación oportuna de los resultados de las diferentes actividades realizadas en el proceso de aprendizaje, y la posibilidad de objetar en forma respetuosa y ser escuchado.
+
+
+* **Deberes:** Recibir retroalimentación oportuna de los resultados de las diferentes actividades realizadas en el proceso de aprendizaje, objetar en forma respetuosa, escuchar.
+Artículo 60. PROHIBICIONES PARA LOS ESTUDIANTES.
+1. El Incumplimiento de sus deberes y el abuso de derecho.
+2. Reflejar un comportamiento contrario a la filosofía institucional y al perfil del estudiante del Gimnasio Obregón.
+3. Toda forma de discriminación hacia cualquier miembro de la comunidad educativa.
+4. Toda forma de irrespeto hacia cualquier miembro de la comunidad educativa y/o hacia las normas
+establecidas en el Manual de Convivencia.
+5. Todo comportamiento que afecte el bienestar propio o el de los demás.
+6. El desconocimiento de las normas de presentación personal establecidas en el Manual de Convivencia.
+7. El ingreso y /o uso de elementos que no hacen parte de útiles, libros solicitados por la institución, los
+elementos serán decomisados y entregados al acudiente.
+8. Comprar cualquier elemento o alimento a los vendedores ambulantes que se ubican a la entrada y salida del colegio.
+9. La manipulación de sustancias químicas sin orientación y autorización expresa de un docente.
+10. Las manifestaciones amorosas durante la jornada escolar y fuera del colegio portando el uniforme.
+11. Dañar el mobiliario y/o elementos asignados para el desarrollo de actividades académicas o institucionales.
+SECCIÓN HORA DE
+INGRESO
+HORA DE FINALIZACIÓN
+JORNADA
+Prekínder 7:30 am 2:00 pm
+Preescolar 6:30 am 2:00 pm
+Primaria 6:30 am 2:10 pm
+Bachillerato 6:30 am 2:10 pm
+GIMNASIO OBREGÓN 2026
+Manual de Convivencia Escolar Página 41
+Nota. El incumplimiento de un deber por parte de los estudiantes trae consigo la vulneración de los derechos de sí
+mismo yde los otros miembros de la comunidad, lo cual implica la comisión de una falta que será tipificada de acuerdo
+al manual de convivencia en faltas disciplinares leves, graves y muy graves y convivenciales tipo I, II o III, y se
+procederá de acuerdo con las rutas de atención pertinentes.
+Parágrafo 1: Fiestas Pre Prom, Prom y Excursiones: Los Art. 18, 42, 43 de la Ley de Infancia y adolescencia demandan
+medidas de protección para los menores. Las directivas del Colegio no promueven, ni apoyan ni autorizan fiestas
+organizadas por los estudiantes, padres de familia, ni por terceros, ni se hace responsable por la pérdida de dineros.
+Como tampoco autoriza la utilización del nombre del Colegio, ni sus símbolos en boletería u otras formas publicitarias
+de manera física o por Internet para dichos eventos. Está prohibido ofrecer, o vender boletas para las mismas actividades
+dentro del colegio. Los padres de familia al autorizar a sus hijos para que asistan asumen el riesgo que corren los
+adolescentes en la realización de fiestas porque no existe el control estricto en el consumo de cigarrillos, licores y
+sustancias prohibidas que generan dependencia y en los comportamientos derivados de los estados de alicoramiento o
+de enajenación mental producida por el consumo de pastillas nocivas para la salud de fácil distribución en las mismas
+actividades. Es deber del colegio informar a las autoridades competentes sobre la participación de menores de edad en
+esta clase de actividades.
+Parágrafo 2: Cuando se presente una presunta situación de vulneración de derechos ejercida hacia docentes, directivos
+y /o personal de apoyo por parte de un estudiante se seguirá el protocolo de atención del sistema de responsabilidad
+penal para adolescentes. Ley 1098 de 2006.
+Artículo 61. DE LOS PADRES DE FAMILIA.
+Los padres de familia son miembros activos y participantes de la comunidad educativa del Gimnasio Obregón. Por lo
+tanto, su misión no termina con la realización de la matrícula en el grado que le corresponda a su hijo(a), ya que sólo
+una actitud continua, interesada y comprometida de su parte, permitirá complementar adecuadamente la labor
+educativa. En la medida de lo posible, el Gimnasio Obregón planteará acciones que propendan por una formación
+integral de los padres de familia para que brinden a sus hijos un trato justo y acorde a las circunstancias que estamos
+viviendo.
+Los padres de familia, son gestores de la célula básica de toda sociedad y por ello son los primeros responsables de la
+educación de sus hijos hasta la mayoría de edad o hasta que ocurra cualquier otra clase o forma de emancipación. Por
+esto mismo, son uno de los estamentos que conforman la comunidad educativa, que debe estar dotado de un alto
+sentido de responsabilidad y acatamiento de las directrices del colegio, siendo corresponsables en los procesos de
+aprendizaje de sus hijos, mediante un activo y positivo acompañamiento permanente que brinde la posibilidad de hacer
+un seguimiento coherente con las capacidades, potencialidades, habilidades y necesidades de quienes son el centro y
+la razón del trabajo educativo de cada día.
+Artículo 62. PERFIL DE LOS PADRES DE FAMILIA
+La familia es el primer ente educador donde se forman principios y valores éticos en los educandos. Es el núcleo
+fundamental para el desarrollo de sus hijos, por tal motivo se distinguen por:
+1. Ser capaces de brindar formación y educación a los hijos hasta cuando cumplan la mayoría de edad.
+2. Ser modelo de padres con el ejemplo de ser ciudadanos correctos.
+3. Ser facilitadores del proceso formativo a nivel socioemocional, disciplinar y académico.
+4. Ser quienes propician un ambiente familiar sano.
+5. Ser ejemplo de buena conducta y comportamiento social, con buenos modales, buenas costumbres y maneras.
+6. Ser responsables de un ambiente moralmente idóneo para la orientación de los hijos.
+7. Ser responsables y cumplidores de todos los compromisos como padres y acudientes.
+8. Ser solícitos y atentos al desarrollo y las necesidades de los estudiantes.
+9. Ser responsables de tener una cobertura médica amplia a través de un sistema de salud y/o póliza de seguro de
+accidentes escolares.
+Artículo 63. OTROS DERECHOS Y DEBERES DE LOS PADRES DE FAMILIA:
+GIMNASIO OBREGÓN 2026
+Manual de Convivencia Escolar Página 42
+Conforme a lo consagrado en la Constitución Política de Colombia, la ley 115 de 1994, “Ley General de Educación”, la
+ley 1098 de 2006 “ley de Infancia y Adolescencia”, y el Decreto 1075 de 2015 (capítulo 3 educación básica y media.
+Sección 3, Evaluación del aprendizaje y promoción de los estudiantes de los niveles de educación básica y media y
+Titulo 4, participación de los padres de familia en el mejoramiento de los procesos educativos de los establecimientos
+oficiales y privados), son derechos y deberes de los padres de familia o acudientes los siguientes:
+A continuación te presento la transcripción detallada y organizada en ítems de la tabla del **Artículo 63: Derechos y deberes de los padres de familia** que aparece en las dos imágenes proporcionadas:
+
+* **Ítem 1:**
+* **Derechos:** Ser corresponsable en el proceso de formación de su hijo/a.
+
+
+* **Deberes:**
+1. Velar por el cumplimiento de los horarios por parte de su hijo/a.
+
+
+2. Acompañar a su hijo/a en situaciones administrativas, académicas, convivenciales y/o de bienestar irregulares.
+
+
+3. Generar las estrategias de acompañamiento de los niños, niñas y adolescentes en los recorridos CASA-COLEGIO-CASA desde los grados preescolar a undécimo, el cual debe ser realizado por un adulto responsable, ya sea los padres, acudientes o persona mayor de edad debidamente autorizada. El acompañamiento evita que el menor quede expuesto a situaciones de alto riesgo (robos, conflictos, acercamientos a situaciones con sustancias o elementos no permitidos por la ley). No se permite el retiro de estudiantes por personas menores de 18 años.
+
+
+4. Respetar el horario de atención de los docentes, solicitando vía agenda la programación de citación con docentes, administrativos y/o coordinadores.
+
+
+5. Reportar a Coordinación de Convivencia, en el plazo estipulado, las ausencias o retrasos de su hijo(a).
+
+
+6. Asistir puntualmente a las citaciones de docentes y/o directivos.
+
+
+7. Asistir y apoyar al Colegio en las actividades académicas, disciplinarias y de escuelas de padres, como en todas aquellas que redunden en la formación integral de su hijo(a).
+
+
+8. Realizar solicitud de documentación en la secretaría, con tres (3) días de anticipación para constancias y cinco (5) días hábiles de anticipación para certificados y asumir su costo.
+
+
+
+
+
+
+* **Ítem 2:**
+* **Derechos:** Recibir capacitación como padre, madre o acudiente en formación integral: académica, social, de valores y principios de los estudiantes de preescolar, básica y media.
+
+
+* **Deberes:**
+1. Asistir a las escuelas de padres y madres de familia que el colegio programe ya sea de manera presencial o virtual, dando cumplimiento a la ley 2025 de 23 de julio/ año 2020.
+
+
+2. Justificar las inasistencias a las escuelas de padres y madres de familia en caso de presentarse un evento fortuito, de fuerza mayor o la negación del empleador del padre o la madre y/o cuidador, de dar permiso al trabajador de asistir a dicha reunión.
+
+
+3. Presentar la nivelación correspondiente por inasistencia justificada, establecida por la institución educativa, como una manera pedagógica para dar cumplimiento al proceso de las escuelas de padres y madres de familia.
+
+
+4. Ser consciente que el cumplimiento y asistencia a las escuelas de padres y madres de familia es un requisito en el proceso de matrícula del siguiente año y para los/as estudiantes de grado once para su ceremonia de grado.
+
+
+
+
+
+
+* **Ítem 3:**
+* **Derechos:** Recibir información oportuna sobre las tarifas de matrícula y pensiones establecidas por el colegio para cada grado y sobre los costos adicionales del año lectivo.
+
+
+* **Deberes:**
+1. Cancelar puntualmente la cuota mensual del contrato educativo los primeros diez (10) días de cada mes.
+
+
+2. Cancelar costos adicionales ocasionales.
+
+
+
+
+
+
+* **Ítem 4:**
+* **Derechos:** Ser informado periódicamente sobre el rendimiento académico de su hijo(a).
+
+
+* **Deberes:** Recibir personalmente el reporte de calificaciones de su hijo(a) en cada período, atendiendo la fecha y hora estipulada para su entrega.
+
+
+
+
+* **Ítem 5:**
+* **Derechos:** Ser informado de los libros y materiales requeridos por la institución para cada año lectivo.
+
+
+* **Deberes:** Dotar a sus hijos de todos los implementos de trabajo y orientarlo en trabajos, tareas, ejercicios para asegurar un óptimo rendimiento académico.
+
+
+
+
+* **Ítem 6:**
+* **Derechos:** Ser informado oportunamente de los daños causados por su hijo(a).
+
+
+* **Deberes:**
+* Responder por los daños que su hijo cause en persona o cosa dentro o fuera del plantel, este último cuando esté representando al colegio en alguna actividad o portando el uniforme.
+
+
+* No debe permitir que su hijo lleve a casa y conserve objetos que no le pertenecen.
+
+
+
+
+
+
+* **Ítem 7 (Primer bloque):**
+* **Derechos:** Recibir información diaria vía agenda escolar relacionada con el Task Control, información administrativa, académica, convivencial y de bienestar escolar.
+
+
+* **Deberes:** Revisar y firmar a diario la agenda escolar como notificación de conocimiento del Task Control, información administrativa, académica, convivencial y de bienestar escolar enviada.
+
+
+
+
+* **Ítem 7 (Segundo bloque):**
+* **Derechos:** Recibir de parte de la institución orientación sobre el manejo del tiempo libre de su hijo.
+
+
+* **Deberes:** Controlar y orientar el buen uso del tiempo libre de sus hijos, velando por el buen nombre y bienestar de los jóvenes.
+
+
+
+
+* **Ítem 8:**
+* **Derechos:** Recibir del colegio las indicaciones sobre los uniformes, el porte y los horarios de los mismos y sobre la presentación personal exigida por la institución.
+
+
+* **Deberes:** Garantizar la buena presentación personal de su hijo/a acorde con las indicaciones establecidas en el presente Manual de Convivencia.
+
+
+
+
+* **Ítem 9:**
+* **Derechos:** Representar a los padres de familia en el Consejo Directivo, y dar a conocer sus inconformidades.
+
+
+* **Deberes:**
+1. Participar con voz y voto en los procesos democráticos.
+
+
+2. Asumir con responsabilidad la representación de los padres de familia, cuando sea elegido, expresando oportunamente cualquier situación que afecte el buen desarrollo de la institución y aportando soluciones a las problemáticas que surjan.
+Parágrafo 2: La falta de acompañamiento de los padres o acudientes y la ausencia a reuniones, escuelas y demás
+actos programados por la Institución, generan un compromiso especial, evaluable cada período.
+Parágrafo 3: Es obligación de los padres de familia o acudientes, presentarse ante el titular de grupo o ante la
+coordinación de convivencia escolar, para justificar su ausencia en una entrega de informes u otra convocatoria hecha
+por el colegio en la citación que se asigne para tal efecto.
+Parágrafo 3: EL ACUDIENTE DEBIDAMENTE AUTORIZADO: Los padres de familia como primeros responsables,
+están llamados a guardar especial atención al nombrar el “acudiente debidamente autorizado”, ante la institución
+educativa, para hacerlo, deberán tener en cuenta las obligaciones y responsabilidades que les impone la ley.
+El Decreto 1075 de 2015, Decreto Único del Sector Educación, que regula la participación de los padres de familia en
+el mejoramiento de los procesos educativos de los establecimientos oficiales y privados, define el acudiente autorizado
+en el “Artículo
+2.3.4.1. Ámbito de aplicación. (…) Parágrafo. Para los fines previstos en el presente Título, la expresión “padres de
+familia” comprende a los padres y madres de familia, así como a los tutores o quienes ejercen la patria potestad o
+acudientes debidamente autorizados.” Los derechos y deberes de los padres de familia (que cobijan en igual medida a
+los acudientes debidamente autorizados), se encuentran regulados en los artículos 2.3.4.2., y 2.3.4.3 del Decreto 1075
+de 2015.
+Sobre lo anterior, la Corte Constitucional ha dicho que "en materia de educación, las obligaciones que el ordenamiento
+jurídico colombiano impone a los padres, no se limita a la inscripción de los menores en el ciclo básico obligatorio. Los
+padres y acudientes también deben cumplir con las obligaciones que les impone la ley en desarrollo del Estatuto
+Superior, las que se derivan para ellos del Manual de Convivencia del colegio, y las que se incluyen en el contrato de
+matrícula para cada uno de los periodos escolares. Pero principalmente, por tratarse de la formación de sus hijos, las
+obligaciones de los padres y acudientes van acompañados de derechos, entre los cuales se encuentra, el de participar
+no solo limitándose a asistir periódicamente a las reuniones y eventos programados, sino también apersonándose de la
+educación de sus hijos a partir de la supervisión y vigilancia de la prestación del servicio que estos reciben." (Sentencia
+T481/09). Por lo tanto, en el Gimnasio Obregón, solo los padres de familia podrán firmar la matrícula y se aceptará la
+figura de acudiente autorizado en ocasiones excepcionales, cuando los padres de familia no se encuentren en el país,
+o hayan fallecido y solo en estos casos, quienes actúen como acudientes podrán acceder a los deberes y derechos
+contemplados en la Ley y en el Manual de Convivencia.
+De las imposibilidades para ser acudiente:
+1. Ser menor de edad.
+2. Ser el hermano y/o hermana cuando los padres estén vivos y residan con el/la estudiante.
+3. Carecer de capacidad legal para representar al estudiante.
+Artículo 64. PARTICIPACIÓN DE LA FAMILIA.
+La familia, como parte de la comunidad educativa, en el marco del Sistema Nacional de convivencia escolar y formación
+para los derechos humanos, la educación para la sexualidad y la prevención y mitigación de la violencia escolar, además
+GIMNASIO OBREGÓN 2026
+Manual de Convivencia Escolar Página 44
+de las obligaciones consagradas en el artículo 67 de la Constitución Política, en la Ley 115 de 1994, la Ley 1098 de
+2006, la Ley 1453 de 2011 y demás normas vigentes, deberá:
+1. Proveer a sus hijos espacios y ambientes en el hogar que generen confianza, cuidado y protección de sí y de su
+entorno físico, socio-emocional y ambiental.
+2. Participar en la formulación, planeación y desarrollo de estrategias que promuevan la convivencia escolar, los
+derechos humanos, sexuales y reproductivos, la participación y la democracia, y el fomento de estilos de vida
+saludable.
+3. Cumplir con las condiciones y obligaciones establecidas en el Manual de Convivencia y responder cuando su hijo
+incumple alguna de las normas allí definidas.
+4. Conocer y seguir la Ruta de Atención Integral cuando se presente un caso de violencia escolar, la vulneración de
+los derechos sexuales y reproductivos o una situación que lo amerite, de acuerdo con las instrucciones impartidas
+en el Manual de Convivencia del respectivo establecimiento educativo.
+5. Utilizar los mecanismos legales existentes y los establecidos en la Ruta de Atención Integral a que se refiere esta
+Ley, para restituir los derechos de sus hijos cuando éstos sean agredidos.
+Artículo 65. OTRAS PROHIBICIONES PARA LOS PADRES DE FAMILIA:
+1. Ingresar objetos, textos, trabajos, tareas, onces y demás elementos, para ser entregados a los estudiantes durante la
+jornada escolar.
+2. Contratar docentes de la Institución para clases particulares dirigidas a los estudiantes del Gimnasio Obregón.
+Parágrafo 1: Los padres de familia deberán asumir las siguientes consecuencias ante el incumplimiento:
+1. Amonestación escrita en el formato Acompañamiento Estudiantil de su hijo/a en caso de incumplimiento de
+los deberes adquiridos con el Colegio en el momento de la matrícula.
+2. Primero y segundo aviso por incumplimiento en el pago oportuno de las pensiones.
+3. Tercer aviso y citación a rectoría por no pago oportuno de pensiones.
+4. Llamado de atención con registro en el acompañamiento estudiantil, por inasistencia a cualquier citación o evento
+(convivencias, reuniones de padres, citaciones de docentes, escuela de padres y madres, etc.) al que sea requerido
+por el colegio, dichas anotaciones se tendrán en cuenta para la no-continuidad del estudiante en el año siguiente.
+5. Los padres de familia que no cumplan con lo establecido en el acompañamiento y seguimiento del proceso
+académico y comportamental, que involucren el bienestar integral del estudiante, deberán firmar un compromiso
+en acompañamiento que los responsabiliza como primeros educadores de sus hijos. El no cumplimiento del
+compromiso dará como resultado la pérdida del cupo para el año siguiente.
+6. Denuncia ante entidades externas (instituto colombiano de bienestar familia, comisaría de familia, entre otras)
+cuando los padres o acudientes no se hacen presentes en el colegio, ni acatan las recomendaciones que se hagan
+con el fin de corregir los maltratos físicos o psicológicos infringidos contra el menor o se evidencia vulneración de
+derechos.
+7. A los padres de familia que no asuman la vía del diálogo y la conciliación y protagonicen escándalos en el colegio,
+se les negará la continuidad en el colegio toda vez que dicha actitud va en contra de las buenas costumbres y
+maneras y no está acorde con la educación humana y moral que brinda el Colegio.
+Parágrafo 2: Cuando se presente una presunta situación de vulneración de derechos ejercida hacia docentes, directivos
+y /o personal de apoyo por parte de padres y /o familiares de un estudiante, se seguirá el protocolo de atención del
+sistema de responsabilidad penal. Ley 599 de 2000.
+Artículo 66. CONSEJO DE PADRES DE FAMILIA.
+El Consejo de Padres de Familia es un órgano de participación de los padres de familia del establecimiento educativo
+destinado a asegurar su continua participación en el proceso educativo y a elevar los resultados de calidad del servicio.
+Su reglamentación y funcionamiento se encuentra contemplado en el Decreto 1286 de 2005, el cual la Institución acoge
+en su totalidad. Estará integrado por mínimo un (1) y máximo tres (3) padres de familia por cada uno de los grados que
+ofrezca el establecimiento educativo, de conformidad con lo que establezca el Proyecto Educativo Institucional -PEI.
+Artículo 67. LOS DOCENTES.
+Son las personas nombradas por la institución para el acompañamiento, orientación, dirección y guía de un área,
+asignatura y/o grado. Son los responsables inmediatos del proceso de desarrollo armónico y de la formación integral
+del estudiante en el colegio.
+GIMNASIO OBREGÓN 2026
+Manual de Convivencia Escolar Página 45
+Artículo 68. PERFIL DEL DOCENTE OBREGON
+El docente del Gimnasio Obregón ha de ser una persona que se distingue por:
+1. Ser agente de cambio en el proceso educativo del colegio.
+2. Su idoneidad ética y moral, reflejándose en sus procesos de comunicación, modales y buenas costumbres.
+3. Su competencia disciplinar y pedagógica.
+4. Ser responsable con sus obligaciones laborales.
+5. Ser coherente en su quehacer y proceder, con la filosofía de la Institución.
+6. Ser agente de la personalización en toda su práctica pedagógica.
+7. Ser promotor de la Justicia, la Templanza, la Prudencia y la Fortaleza.
+8. Ser firme en la exigencia y cordial en el trato.
+9. Su buena presentación, decoro y pulcritud en el porte de los uniformes institucionales.
+El docente “Es el orientador de un proceso de formación, enseñanza y aprendizaje de los educandos, acorde con las
+expectativas sociales, culturales, éticas y morales de la familia y la sociedad”. (Ley 115 de febrero 08 de 1994, artículo
+104). “Debe ser una persona de reconocida idoneidad moral, ética, pedagógica y profesional”. (Ley 115 de febrero 08
+de 1994, artículo 110). Para todos los docentes que hacen parte de la comunidad educativa se han definido los
+siguientes derechos y deberes:
+Artículo 69. DERECHOS Y DEBERES DE LOS DOCENTES Y DIRECTIVOS
+De conformidad con la Constitución Política, la Ley General de Educación, el Código Sustantivo del Trabajo, su contrato
+de trabajo o de prestación de servicios, y en especial los directivos y docentes del Gimnasio Obregón, tienen los
+siguientes derechos y deberes:
+A continuación te presento la transcripción detallada y organizada en ítems de la tabla del **Artículo 69: Derechos y deberes de los docentes y directivos**, abarcando las tres páginas de las imágenes proporcionadas:
+
+* **Ítem 1:**
+* **Derechos:** Conocer sus funciones y los límites de las mismas.
+
+
+* **Deberes:** Cumplir con las obligaciones laborales establecidas en el contrato de trabajo.
+
+
+
+
+* **Ítem 2:**
+* **Derechos:** Ser tenido en cuenta en igualdad de oportunidades en todos los proyectos o actividades que realice la institución.
+
+
+* **Deberes:** Asumir con responsabilidad la representación de la institución en cualquier curso, evento, diplomado, o actividad extracurricular a la que sea enviado como delegado de la comunidad Obregón.
+
+
+
+
+* **Ítem 3:**
+* **Derechos:** Ser evaluado objetivamente bimestral y anualmente en los aspectos laboral, pedagógico y disciplinar.
+
+
+* **Deberes:** Velar por el buen desempeño en todas las actividades a su cargo e implementar planes de mejoramiento en los puntos débiles que presente al ser evaluado.
+
+
+
+
+* **Ítem 4:**
+* **Derechos:** Recibir el carné que lo identifica como miembro de la institución.
+
+
+* **Deberes:** Portar en lugar visible y con decoro el carné institucional y mantenerlo siempre en la institución.
+
+
+
+
+* **Ítem 5:**
+* **Derechos:** Ausentarse en caso de enfermedad y/o calamidad doméstica debidamente justificada.
+
+
+* **Deberes:**
+1. Solicitar a Coordinación académica los permisos correspondientes y avisar oportunamente en caso de algún inconveniente de fuerza mayor que le impida cumplir con sus obligaciones laborales.
+
+
+2. Si es previsible, solicitar el permiso por escrito a más tardar con 5 días antes para generar las contingencias.
+
+
+3. Cuando con anterioridad solicite un permiso, dejar gestionados los reemplazos, las actividades y las guías de trabajo.
+
+
+
+
+
+
+* **Ítem 6:**
+* **Derechos:** Recibir reconocimientos por su labor docente.
+
+
+* **Deberes:** Ser personal calificado con experiencia y esforzarse por alcanzar una excelente preparación académica, espiritual y humana.
+
+
+
+
+* **Ítem 7:**
+* **Derechos:** Conocer oportunamente el cronograma académico anual y de cada período y los lineamientos institucionales para diseñar las planeaciones y ejecutarlas.
+
+
+* **Deberes:**
+1. Diseñar y entregar las planeaciones de cada periodo y entregarlas oportunamente a los estudiantes.
+
+
+2. Diligenciar durante todo el período las planillas de seguimiento y reporte de las notas de los estudiantes.
+
+
+3. Retroalimentar oportunamente a los estudiantes, con las observaciones sobre evaluaciones, tareas y trabajos.
+
+
+4. Elaborar y evaluar oportunamente los exámenes periódicos.
+
+
+5. Colaborar en los procesos de admisiones y elaboración de exámenes.
+
+
+6. Elaborar y entregar oportunamente las guías de ocasión.
+
+
+7. Cuando se ausente dejar los reemplazos y las actividades correspondientes.
+
+
+8. Cumplir con los requerimientos solicitados dentro de la plataforma de Classroom, en los tiempos establecidos.
+
+
+9. Entregar de manera oportuna, y dentro de las fechas establecidas, el reporte de semáforo de cada materia con el fin de no atrasar procesos de los directores de grupo ni de los estudiantes.
+
+
+
+
+
+
+* **Ítem 8:**
+* **Derechos:** Recibir la dotación correspondiente, de acuerdo a los parámetros establecidos por la institución y tener una presentación personal acorde con el estatus de docente de la institución.
+
+
+* **Deberes:** Los docentes del Gimnasio Obregón deben cuidar su presentación personal. Para ello, deben:
+1. Cumplir con los horarios establecidos para el uso de uniformes.
+
+
+2. Todos los docentes del Gimnasio Obregón portarán los uniformes según los horarios establecidos por la institución.
+
+
+3. Llevar con decoro y pulcritud los uniformes y elementos de protección brindados por la institución.
+
+
+
+
+
+
+* **Ítem 9:**
+* **Derechos:** Conocer oportunamente las directrices institucionales. Ser informado sobre las programaciones y planes operativos de apoyo para los descansos y demás actividades que requieran de la supervisión de parte de los docentes.
+
+
+* **Deberes:** Acatar y ejecutar las directrices de la Rectoría, el Consejo Académico, los Coordinadores y los jefes de Área.
+
+
+
+
+* **Ítem 10:**
+* **Derechos:** Tener formación espiritual y profesional.
+
+
+* **Deberes:** Asistir a las jornadas de formación académica y personal.
+
+
+
+
+* **Ítem 11:**
+* **Derechos:** Tener espacios adecuados para la realización de sus actividades académicas proporcionando los tiempos pertinentes para la ejecución de las mismas. Conocer los horarios institucionales. Recibir inducción en los diferentes procedimientos y en el manejo preciso de la documentación institucional.
+
+
+* **Deberes:**
+1. Mantener el orden, la disciplina, el aseo y la normalización dentro de las aulas y demás dependencias de la institución.
+
+
+2. Colaborar con la conservación de la planta física y el mobiliario escolar, así como también el material didáctico.
+
+
+3. Hacer de su práctica en el aula, un momento de formación, en donde se genere el respeto mutuo y la confianza.
+
+
+
+
+
+
+* **Ítem 12:**
+* **Derechos:** *(Continuación de espacios/horarios y directrices institucionales)*
+* **Deberes:**
+1. Llegar puntualmente al colegio; es decir, antes de las 6:15 a.m.
+
+
+2. Asistir a la institución los días adicionales que sea requerido para la realización de actividades institucionales, en los horarios asignados.
+
+
+3. Atender a los padres de familia en los horarios establecidos por la institución.
+
+
+4. Iniciar y terminar los espacios académicos a tiempo. Velar por el cumplimiento de los horarios por parte de los estudiantes.
+
+
+5. Reportar a Coordinación de Convivencia las ausencias, retrasos y comunicaciones enviadas por los padres de los estudiantes al finalizar la primera hora de clase.
+
+
+
+
+
+
+* **Ítem 13:**
+* **Derechos:** *(Continuación de inducción y procedimientos institucionales)*
+
+
+* **Deberes:**
+1. Acatar todas las indicaciones emanadas de las directivas.
+
+
+2. Respetar el conducto regular.
+
+
+3. Cumplir con los procedimientos establecidos.
+
+
+4. Diligenciar correcta y oportunamente las planillas, agendas, plataforma de Classroom, planes operativos, los acompañamientos e informes de estudiantes, las actas de reuniones, y todos los documentos que impliquen responsabilidad en su labor docente.
+
+
+
+
+
+
+* **Ítem 14:**
+* **Derechos:** Representar a los docentes en el Consejo Directivo.
+
+
+* **Deberes:**
+1. Participar con voz y voto en los procesos democráticos.
+
+
+2. Asumir con responsabilidad la representación docente, expresando oportunamente cualquier situación que afecte el buen desarrollo de la institución.
+
+
+
+
+
+
+* **Ítem 15:**
+* **Derechos:** Ser informado de su no continuidad en la institución.
+
+
+* **Deberes:** Informar con antelación la decisión de renunciar a su cargo de acuerdo al contrato de trabajo con sus consecuencias.
+
+
+
+
+* **Ítem 16:**
+* **Derechos:** Asignación de horas de trabajo pedagógico en jornada académica.
+
+
+* **Deberes:** Hacer uso de las horas de trabajo pedagógico para:
+1. Realizar planeaciones.
+
+
+2. Revisión y calificación de trabajos, cuadernos y demás actividades asignadas a los estudiantes.
+
+
+3. Atención a padres.
+
+
+4. Realizar contingencias en caso de requerirse desde Coordinación académica.
+
+
+
+
+* **Nota importante:** El uso de redes sociales en estos espacios o durante la jornada laboral no está permitido.
+Artículo 70. RESPONSABILIDADES DE LOS DOCENTES
+GIMNASIO OBREGÓN 2026
+Manual de Convivencia Escolar Página 47
+Según la ley 1620 de 2013 en el Sistema Nacional de Convivencia Escolar y formación para los derechos humanos, la
+educación para la sexualidad y la prevención y mitigación de la violencia escolar. Además de las que establece la
+normatividad vigente y que le son propias, tendrán las siguientes responsabilidades:
+1. Identificar, reportar y realizar el seguimiento a los casos de acoso escolar, violencia escolar y vulneración de
+derechos sexuales y reproductivos que afecten a estudiantes del establecimiento educativo, acorde con los
+artículos 11 y 12 de la Ley 1146 de 2007 y demás normatividad vigente, con el manual de convivencia y con
+los protocolos definidos en la Ruta de Atención Integral para la Convivencia Escolar. Si la situación de
+intimidación de la que tienen conocimiento se hace a través de medios electrónicos igualmente deberá
+reportar al comité de convivencia para activar el protocolo respectivo.
+2. Previo a la remisión de la situación al estamento correspondiente; documentar las acciones pedagógicas y
+reparadoras llevadas a cabo desde el aula, las cuales deben involucrar trabajo para formar y fortalecer a los
+estudiantes en Competencias Ciudadanas con el objeto de garantizar el debido proceso y conducto regular.
+3. Transformar las prácticas pedagógicas para contribuir a la construcción de ambientes de aprendizajes
+democráticos y tolerantes que potencien la participación, la construcción colectiva de estrategias para la
+resolución de conflictos, el respeto a la dignidad humana, a la vida, a la integridad física y moral de los
+estudiantes.
+4. Participar de los procesos de actualización y de formación docente y de evaluación del clima escolar del
+establecimiento educativo.
+5. Contribuir a la construcción y aplicación del manual de convivencia.
+6. Cumplir con lo dispuesto en el Contrato de Trabajo y el respectivo reglamento interno de trabajo.
+Parágrafo: El incumplimiento de los deberes y funciones establecidos por el Gimnasio Obregón para el personal
+docentes, será motivo de proceso disciplinario por parte de las instancias correspondientes y acorde con lo estipulado
+en el Reglamento Interno de Trabajo.
+Artículo 71. OTRAS PROHIBICIONES PARA LOS DOCENTES:
+1.Establecer relaciones amorosas con estudiantes. Es causal de cancelación inmediata del contrato laboral.
+2.Asumir clases particulares (con costos económicos) para los estudiantes del colegio con dificultades académicas, ya
+que esto puede comprometer los resultados académicos y sus valoraciones en el año lectivo.
+3.El uso de celulares durante las clases, la jornada laboral, las actividades institucionales y las reuniones realizadas por
+la institución.
+4.Se cancela contrato de manera inmediata en el momento en que se demuestre falsedad en la documentación y/o
+información presentada en la institución
+5. Hacer uso de redes sociales tanto en clase como en horas de trabajo pedagógico.
+6. Omitir realizar correctivos o no comunicar a Coordinación oportunamente, cuando evidencie situaciones irregulares
+ya sea por parte de estudiantes o de docentes, dentro de la institución o durante la realización de actividades
+institucionales.
+7.El porte inadecuado de los uniformes reglamentarios, o durante los días que no corresponda o la omisión del porte de
+los mismos. 8.Retirarse o presentarse tarde sin autorización a clases y actividades que requieran de acompañamiento
+como descansos, formaciones, contingencias y las demás asignadas por las Coordinaciones.
+Parágrafo único:
+Ante el incumplimiento de los deberes y/o prohibiciones por parte de un docente se le aplicarán las sanciones
+establecidas para el caso.
+Artículo 72. RELACIÓN ENTRE ESTUDIANTES, DOCENTES Y DIRECTIVOS
+1. Los docentes que guían el proceso formativo de los estudiantes deben tener en cuenta el momento evolutivo y
+respetar la individualidad de cada estudiante; además, deben cumplir a cabalidad con sus deberes profesionales:
+puntualidad, preparación de clases y actividades, implementación de la evaluación y responsabilidad en la
+devolución oportuna de trabajos y evaluaciones debidamente revisadas.
+2. Los docentes son ante todo formadores de personas y, por lo mismo, educan en los valores sociales y éticos a
+todos los estudiantes del Colegio y no sólo a los que tienen la oportunidad de asistir a sus clases.
+3. Los docentes deben dar a conocer oportunamente los resultados de las acciones evaluativas del proceso de
+aprendizaje y de convivencia (dentro de los diez días calendario siguientes a la realización de estas), con posibilidad
+de que los estudiantes los puedan revisar y sean escuchados en caso de una objeción.
+4. Los estudiantes deben prestar atención en clase, asumiendo una actitud de respeto hacia el docente y hacia sus
+compañeros.
+5. El estudiante debe mantener comunicación, trato respetuoso y cordial con la Comunidad Educativa (directivos,
+estudiantes, profesores, padres y madres de familia y empleados).
+Artículo 73. JEFES DE ÁREA.
+Son los responsables del diseño y revisión permanente de los programas curriculares de sus áreas, así como de la
+selección de materiales y metodologías adecuados para la consecución de los objetivos de los programas. Es su
+responsabilidad la revisión y coordinación de la planeación de los periodos pedagógicos y el acompañamiento a los
+GIMNASIO OBREGÓN 2026
+Manual de Convivencia Escolar Página 48
+docentes en la elaboración de planes de refuerzo y nivelaciones, así como la elaboración de exámenes.
+Parágrafo 1. El respeto a la individualidad del estudiante deberá tener en cuenta las normas especificadas en el
+presente Reglamento o Manual de Convivencia, así como los derechos de los demás estudiantes.
+Parágrafo 2. MARCO LEGAL:
+“Los rectores o directores de las instituciones educativas del estado tienen la facultad de sancionar disciplinariamente
+a los docentes de su institución de conformidad con el estatuto docente y la presente ley”. (Ley 115 de febrero 08 de
+1994, artículo 130).
+Artículo 74. DERECHOS Y DEBERES DE LOS EXALUMNOS
+La institución invitará anualmente a los Exalumnos a participar en una reunión destinada a organizar y fortalecer la
+Asociación de Exalumnos. Este encuentro será una oportunidad para intercambiar experiencias, promover la integración
+y definir la representación de los Exalumnos en el Consejo Directivo.
+DERECHOS. El exalumno y la exalumna tienen derecho a:
+1. Elegir y ser elegido en las diferentes instancias de participación de la institución.
+2. Ser atendido o atendida con amabilidad.
+3. Ser invitado o invitada a las actividades que se propongan
+4. Pertenecer a la asociación de Exalumnos.
+DEBERES. El exalumno debe:
+1. Mantener en alto el buen nombre del plantel educativo.
+2. Asistir a las reuniones que se programen para ellos.
+3. Participar en las actividades y eventos programados por la institución.
+4. Nombrar un representante para el consejo directivo.
+5. Promover actividades de apoyo a la institución.
+6. Respetar los horarios establecidos para su atención.
+TITULO V. - MODULO
+ACADÉMICO
+JORNADA ESCOLAR
+La jornada escolar en el Gimnasio Obregón está dada en los siguientes horarios:
+➢Pre kinder 7:00 a.m. a 2:00 p.m. *
+➢Kinder 6:30 a.m. a 2:00 pm.*
+➢Transición 6:30 a.m. a 2:00 p.m.*
+➢Básica primaria: 6:30 a.m. a 2:10 p.m.
+➢Básica secundaria y media 6:30 am a 2:10 pm
+* Para padres interesados en jornada adicional de 2pm a 5pm*
+CAPÍTULO I. - PLAN DE ESTUDIOS
+Artículo 75. PLAN DE ESTUDIOS.
+Dando cumplimiento a lo establecido en la Ley General de Educación (Ley 115 de 1994) y sus Decretos Reglamentarios,
+especialmente el Decreto 1860 de 1994, el Gimnasio Obregón adopta un Plan de Estudios que organiza y articula las áreas
+obligatorias y fundamentales definidas por el Ministerio de Educación Nacional para la Educación Preescolar, Básica y Media.
+El Plan de Estudios constituye la estructura curricular mediante la cual la institución garantiza el desarrollo integral de los
+estudiantes, la formación en competencias y la secuenciación progresiva de los aprendizajes. Este documento orienta los
+propósitos formativos, los contenidos, los desempeños, la metodología, la evaluación y el tiempo destinado a cada área y
+grado, en coherencia con el Proyecto Educativo Institucional – PEI.
+Artículo 76. PLAN DE ESTUDIOS PREESCOLAR
+De acuerdo con la Ley 115 de 1994 y el Decreto 2247 de 1997, el Plan de Estudios del nivel Preescolar en el Gimnasio
+Obregón organiza los procesos pedagógicos mediante experiencias integrales que articulan las dimensiones del desarrollo
+humano: cognitiva, comunicativa, corporal, socioafectiva y estética. Estas dimensiones orientan las actividades y ambientes
+de aprendizaje, favoreciendo el desarrollo integral y la exploración del entorno propio de esta etapa educativa.
