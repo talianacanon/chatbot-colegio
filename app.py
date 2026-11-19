@@ -3,9 +3,9 @@ import google.generativeai as genai
 import os
 
 # 1. Configuracion de la pagina web
-st.set_page_config(page_title="Chatbot Escolar", page_icon="GO")
+st.set_page_config(page_title="Chatbot Gimnasio Obregón", page_icon="GO")
 st.title("Chatbot Gimnasio Obregón")
-st.write("Preguntame lo que necesites sobre el colegio, horarios o normatividad.")
+st.write("Soy el asistente virtual de tu colegio, preguntame lo que necesites sobre el colegio, horarios o normatividad.")
 
 # 2. Conectar con la API de Google
 api_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
@@ -16,12 +16,12 @@ if not api_key:
 
 genai.configure(api_key=api_key)
 
-# 3. Leer el archivo con la informaci贸n del colegio
+# 3. Leer el archivo con la información del colegio
 def cargar_informacion():
     if os.path.exists("informacion.txt"):
         with open("informacion.txt", "r", encoding="utf-8") as f:
             return f.read()
-    return "No hay informaci贸n disponible del colegio."
+    return "No hay información disponible del colegio."
 
 contexto_colegio = cargar_informacion()
 
@@ -50,7 +50,7 @@ if user_question := st.chat_input("¿Qué información quieres saber?"):
 
     with st.chat_message("assistant"):
         try:
-            # Usamos el modelo est谩ndar y libre de errores de v1beta
+            # Usamos el modelo estandar y libre de errores de v1beta
             model = genai.GenerativeModel("gemini-3.6-flash")
             response = model.generate_content(instrucciones_bot)
             respuesta_final = response.text
@@ -58,4 +58,4 @@ if user_question := st.chat_input("¿Qué información quieres saber?"):
             st.markdown(respuesta_final)
             st.session_state.messages.append({"role": "assistant", "content": respuesta_final})
         except Exception as e:
-            st.error(f"Error de conexi贸n con el servidor: {e}")
+            st.error(f"Error de conexión con el servidor: {e}")
