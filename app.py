@@ -34,7 +34,7 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 # 5. Respuesta del bot
-if user_question := st.chat_input("Que informacion quieres saber?"):
+if user_question := st.chat_input("¿Qué información quieres saber?"):
     st.session_state.messages.append({"role": "user", "content": user_question})
     with st.chat_message("user"):
         st.markdown(user_question)
