@@ -7,6 +7,7 @@ st.set_page_config(page_title="Chatbot Gimnasio Obregón", page_icon="GO")
 st.title("Chatbot Gimnasio Obregón")
 st.write("Soy el asistente virtual de tu colegio, preguntame lo que necesites, horarios, circulares o normatividad.")
 
+
 # 2. Conectar con la API de Google
 api_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
 
