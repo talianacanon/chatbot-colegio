@@ -4,7 +4,7 @@ import os
 
 # 1. Configuracion de la pagina web
 st.set_page_config(page_title="Chatbot Escolar", page_icon="GO")
-st.title("Chatbot Gimnasio Obregon")
+st.title("Chatbot Gimnasio Obregón")
 st.write("Preguntame lo que necesites sobre el colegio, horarios o normatividad.")
 
 # 2. Conectar con la API de Google
