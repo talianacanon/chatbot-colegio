@@ -2790,41 +2790,41 @@ Octubre
 
 12 de octubre: F (Festivo)
 
-13 de octubre: Día 2
+13 de octubre: Día 3
 
-14 de octubre: Día 3
+14 de octubre: Día 4
 
-15 de octubre: Día 4
+15 de octubre: Día 5
 
-16 de octubre: Día 5
+16 de octubre: Día 6
 
 17 de octubre: S (Sábado)
 
 18 de octubre: D (Domingo)
 
-19 de octubre: Día 6
+19 de octubre: Día 1
 
-20 de octubre: Día 1
+20 de octubre: Día 2
 
-21 de octubre: Día 2
+21 de octubre: Día 3
 
-22 de octubre: Día 3
+22 de octubre: Día 4
 
-23 de octubre: Día 4
+23 de octubre: Día 5
 
 24 de octubre: S (Sábado)
 
 25 de octubre: D (Domingo)
 
-26 de octubre: Día 5
+26 de octubre: Día 6
 
-27 de octubre: Día 6
+27 de octubre: Día 1
 
-28 de octubre: Día 1
+28 de octubre: Día 2
 
-29 de octubre: Día 2
+29 de octubre: Día 3
 
-30 de octubre: Día 3
+30 de octubre: Día 4
 
 31 de octubre: S (Sábado)
 
@@ -2833,27 +2833,27 @@ Noviembre
 
 2 de noviembre: F (Festivo)
 
-3 de noviembre: Día 4
+3 de noviembre: Día 5
 
-4 de noviembre: Día 5
+4 de noviembre: Día 6
 
-5 de noviembre: Día 6
+5 de noviembre: Día 1
 
-6 de noviembre: Día 1
+6 de noviembre: Día 2
 
 7 de noviembre: S (Sábado)
 
 8 de noviembre: D (Domingo)
 
-9 de noviembre: Día 2
+9 de noviembre: Día 3
 
-10 de noviembre: Día 3
+10 de noviembre: Día 4
 
-11 de noviembre: Día 4
+11 de noviembre: Día 5
 
-12 de noviembre: Día 5
+12 de noviembre: Día 6
 
-13 de noviembre: Día 6
+13 de noviembre: Día 1
 
 14 de noviembre: S (Sábado)
 
@@ -2861,13 +2861,13 @@ Noviembre
 
 16 de noviembre: F (Festivo)
 
-17 de noviembre: Día 1
+17 de noviembre: Día 2
 
-18 de noviembre: Día 2
+18 de noviembre: Día 3
 
-19 de noviembre: Día 3
+19 de noviembre: Día 4
 
-20 de noviembre: Día 4
+20 de noviembre: Día 5 (Cena navideña)
 
 21 de noviembre: S (Sábado)
 
