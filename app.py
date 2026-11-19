@@ -67,6 +67,36 @@ versiculos = [
     ("Colosenses 3:23", "Hacer cada tarea de corazón y con esmero honra el esfuerzo diario."),
     ("Proverbios 16:3", "Poner las obras en manos de Dios afirma los proyectos y propósitos."),
     ("Mateo 5:16", "Actuar con buenas obras permite que otros reconozcan el bien en la comunidad."),
+    ("Proverbios 1:5", "Escuchar con atención y buscar consejo permite ganar mayor sabiduría y dirección."),
+    ("Proverbios 2:6", "La verdadera sabiduría, el conocimiento y el discernimiento provienen de Dios."),
+    ("Proverbios 9:10", "El respeto reverente a Dios es el inicio de la sabiduría y el conocimiento."),
+    ("Proverbios 13:20", "Caminar con personas sabias ayuda a crecer y a formar buen criterio."),
+    ("Proverbios 15:14", "Una mente dispuesta a aprender busca conocimiento con interés y apertura."),
+    ("Proverbios 18:15", "Quien es prudente adquiere conocimiento y el oído de los sabios busca saber."),
+    ("Proverbios 19:20", "Aceptar el consejo y la instrucción ayuda a ser más sabio a lo largo de la vida."),
+    ("Salmos 119:99", "Reflexionar en las enseñanzas de Dios da mayor entendimiento en el camino."),
+    ("Eclesiastés 7:12", "La sabiduría protege y da vida a quienes la buscan con sinceridad."),
+    ("Daniel 1:17", "Dios concede conocimiento, inteligencia y discernimiento para cada etapa de formación."),
+    ("Proverbios 12:24", "La diligencia y el trabajo constante abren puertas y traen buenos resultados."),
+    ("Proverbios 13:4", "El esfuerzo perseverante de quienes trabajan con dedicación es recompensado."),
+    ("Proverbios 21:5", "Planificar con cuidado y trabajar con constancia conduce a buenos frutos."),
+    ("1 Corintios 15:58", "Mantenerse firmes y trabajar con ánimo siempre tiene sentido en el propósito de Dios."),
+    ("Gálatas 6:9", "No cansarse de hacer el bien a su tiempo traerá cosecha cuando se persevera."),
+    ("2 Timoteo 1:7", "Dios da un espíritu de fortaleza, amor y dominio propio, no de temor."),
+    ("Jeremías 29:11", "Dios tiene planes de bienestar y futuro para dar esperanza."),
+    ("Salmos 90:17", "Pedir la gracia de Dios afirma la labor de nuestras manos y nuestro esfuerzo."),
+    ("Romanos 12:2", "Renovar la mente ayuda a discernir lo bueno, agradable y perfecto."),
+    ("Filipenses 3:14", "Avanzar con enfoque hacia la meta impulsa a seguir creciendo cada día."),
+    ("Proverbios 15:1", "Una respuesta serena calma la tensión, mientras que una palabra dura aviva el conflicto."),
+    ("Proverbios 17:17", "Un amigo verdadero acompaña en todo tiempo y brinda apoyo sincero."),
+    ("Efesios 4:2", "Actuar con humildad, mansedumbre y paciencia fortalece la convivencia diaria."),
+    ("Efesios 4:32", "Ser bondadosos, compasivos y perdonar de corazón construye comunidad."),
+    ("Colosenses 3:12", "Vestirse de compasión, bondad, humildad, mansedumbre y paciencia embellece las relaciones."),
+    ("Colosenses 3:14", "El amor une y da armonía duradera entre las personas."),
+    ("Romanos 12:18", "Buscar la paz y la sana convivencia con todos es un llamado constante."),
+    ("Salmos 34:14", "Apartarse del mal, hacer el bien y buscar la paz trae bienestar."),
+    ("Isaías 41:10", "No temer ni desmayar, porque el respaldo y la ayuda de Dios sostienen."),
+    ("Salmos 46:1", "Dios es refugio y fortaleza, una ayuda presente en momentos difíciles."),
     ("Salmos 23:1", "Contar con el cuidado y la guía de Dios brinda paz y provisión.")
 ]
 
@@ -80,7 +110,7 @@ with st.sidebar:
     else:
         st.caption("Agrega `logo.png` en la carpeta del proyecto para mostrar tu imagen.")
 
-    st.subheader("Versículo")
+    st.subheader("Versículo del día✨")
     cita, texto_versiculo = st.session_state.versiculo_actual
     st.markdown(
         f'<div class="versiculo-sobrio">“{texto_versiculo}”<br><strong>— {cita}</strong></div>',
